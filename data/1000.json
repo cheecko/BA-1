@@ -7,7 +7,7 @@
 "FirstNameLastName":"Ada Hamilton",
 "Country":"Finland",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"2",
@@ -16,7 +16,7 @@
 "FirstNameLastName":"Adina Fulton",
 "Country":"Paraguay",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"3",
@@ -25,7 +25,7 @@
 "FirstNameLastName":"Carmen Swift",
 "Country":"Libya",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"4",
@@ -34,7 +34,7 @@
 "FirstNameLastName":"Sienna Nielson",
 "Country":"Jordan",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"5",
@@ -43,7 +43,7 @@
 "FirstNameLastName":"Nick Lomax",
 "Country":"Saint Vincent and the Grenadines",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"6",
@@ -52,7 +52,7 @@
 "FirstNameLastName":"Peter Weston",
 "Country":"The Bahamas",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"7",
@@ -61,7 +61,7 @@
 "FirstNameLastName":"Boris Tobin",
 "Country":"Nepal",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"8",
@@ -70,7 +70,7 @@
 "FirstNameLastName":"Adela Nicholls",
 "Country":"Botswana",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"9",
@@ -79,7 +79,7 @@
 "FirstNameLastName":"Bethany Booth",
 "Country":"Equatorial Guinea",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"10",
@@ -88,7 +88,7 @@
 "FirstNameLastName":"Robyn Harris",
 "Country":"Chad",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"11",
@@ -97,7 +97,7 @@
 "FirstNameLastName":"George Attwood",
 "Country":"Kosovo",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"12",
@@ -106,7 +106,7 @@
 "FirstNameLastName":"Fred Nurton",
 "Country":"Namibia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"13",
@@ -115,7 +115,7 @@
 "FirstNameLastName":"Dasha Flett",
 "Country":"Rwanda",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"14",
@@ -124,7 +124,7 @@
 "FirstNameLastName":"Jacob Curtis",
 "Country":"Kiribati",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"15",
@@ -133,7 +133,7 @@
 "FirstNameLastName":"Eduardo Vince",
 "Country":"Cuba",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"16",
@@ -142,7 +142,7 @@
 "FirstNameLastName":"Hank Stevenson",
 "Country":"Belarus",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"17",
@@ -151,7 +151,7 @@
 "FirstNameLastName":"Ruth Abbot",
 "Country":"Grenada",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"18",
@@ -160,7 +160,7 @@
 "FirstNameLastName":"Alexia Forester",
 "Country":"Belgium",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"19",
@@ -169,7 +169,7 @@
 "FirstNameLastName":"Nancy Turner",
 "Country":"Ghana",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"20",
@@ -178,7 +178,7 @@
 "FirstNameLastName":"Harmony Martin",
 "Country":"Hungary",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"21",
@@ -187,7 +187,7 @@
 "FirstNameLastName":"Henry Gray",
 "Country":"Laos",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"22",
@@ -196,7 +196,7 @@
 "FirstNameLastName":"Chad Archer",
 "Country":"Yemen",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"23",
@@ -205,7 +205,7 @@
 "FirstNameLastName":"Carmen Gardner",
 "Country":"Bahrain",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"24",
@@ -214,7 +214,7 @@
 "FirstNameLastName":"Carl Lyon",
 "Country":"Kazakhstan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"25",
@@ -223,7 +223,7 @@
 "FirstNameLastName":"Marvin Mccormick",
 "Country":"Qatar",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"26",
@@ -232,7 +232,7 @@
 "FirstNameLastName":"Emely Patel",
 "Country":"Turkmenistan",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"27",
@@ -241,7 +241,7 @@
 "FirstNameLastName":"Kurt Camden",
 "Country":"Tonga",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"28",
@@ -250,7 +250,7 @@
 "FirstNameLastName":"Roger Vane",
 "Country":"Tunisia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"29",
@@ -259,7 +259,7 @@
 "FirstNameLastName":"Jack Harrington",
 "Country":"Ghana",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"30",
@@ -268,7 +268,7 @@
 "FirstNameLastName":"Keira Latham",
 "Country":"Sudan",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"31",
@@ -277,7 +277,7 @@
 "FirstNameLastName":"Vera Asher",
 "Country":"Ghana",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"32",
@@ -286,7 +286,7 @@
 "FirstNameLastName":"Leroy Strong",
 "Country":"Sudan",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"33",
@@ -295,7 +295,7 @@
 "FirstNameLastName":"Leroy Bristow",
 "Country":"Tonga",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"34",
@@ -304,7 +304,7 @@
 "FirstNameLastName":"Martin Avery",
 "Country":"Slovakia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"35",
@@ -313,7 +313,7 @@
 "FirstNameLastName":"Raquel Malone",
 "Country":"Mozambique",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"36",
@@ -322,7 +322,7 @@
 "FirstNameLastName":"Luke Middleton",
 "Country":"Guinea-Bissau",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"37",
@@ -331,7 +331,7 @@
 "FirstNameLastName":"Peter Stevens",
 "Country":"Eritrea",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"38",
@@ -340,7 +340,7 @@
 "FirstNameLastName":"Percy Fall",
 "Country":"Algeria",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"39",
@@ -349,7 +349,7 @@
 "FirstNameLastName":"Manuel Greenwood",
 "Country":"Sao Tome and Principe",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"40",
@@ -358,7 +358,7 @@
 "FirstNameLastName":"Ethan Uddin",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"41",
@@ -367,7 +367,7 @@
 "FirstNameLastName":"Daron Weston",
 "Country":"Ecuador",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"42",
@@ -376,7 +376,7 @@
 "FirstNameLastName":"Gabriel King",
 "Country":"Italy",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"43",
@@ -385,7 +385,7 @@
 "FirstNameLastName":"Jolene Reese",
 "Country":"Equatorial Guinea",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"44",
@@ -394,7 +394,7 @@
 "FirstNameLastName":"Joseph Brown",
 "Country":"Dominica",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"45",
@@ -403,7 +403,7 @@
 "FirstNameLastName":"Ada Stewart",
 "Country":"Iraq",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"46",
@@ -412,7 +412,7 @@
 "FirstNameLastName":"Aisha Walton",
 "Country":"Cyprus",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"47",
@@ -421,7 +421,7 @@
 "FirstNameLastName":"Gil Forester",
 "Country":"Albania",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"48",
@@ -430,7 +430,7 @@
 "FirstNameLastName":"Jayden Dann",
 "Country":"Micronesia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"49",
@@ -439,7 +439,7 @@
 "FirstNameLastName":"Carter Everett",
 "Country":"United Arab Emirates",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"50",
@@ -448,7 +448,7 @@
 "FirstNameLastName":"Bart Tyrrell",
 "Country":"Malaysia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"51",
@@ -457,7 +457,7 @@
 "FirstNameLastName":"Camden Harvey",
 "Country":"Romania",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"52",
@@ -466,7 +466,7 @@
 "FirstNameLastName":"Cameron Thomson",
 "Country":"Cameroon",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"53",
@@ -475,7 +475,7 @@
 "FirstNameLastName":"Shannon Wood",
 "Country":"Marshall Islands",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"54",
@@ -484,7 +484,7 @@
 "FirstNameLastName":"Percy Smith",
 "Country":"Angola",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"55",
@@ -493,7 +493,7 @@
 "FirstNameLastName":"Owen Chapman",
 "Country":"Libya",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"56",
@@ -502,7 +502,7 @@
 "FirstNameLastName":"Caleb Addley",
 "Country":"Somalia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"57",
@@ -511,7 +511,7 @@
 "FirstNameLastName":"Joy Pearce",
 "Country":"Sri Lanka",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"58",
@@ -520,7 +520,7 @@
 "FirstNameLastName":"Carl Benson",
 "Country":"Nicaragua",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"59",
@@ -529,7 +529,7 @@
 "FirstNameLastName":"Maxwell Olivier",
 "Country":"Equatorial Guinea",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"60",
@@ -538,7 +538,7 @@
 "FirstNameLastName":"Amelia Harvey",
 "Country":"New Zealand",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"61",
@@ -547,7 +547,7 @@
 "FirstNameLastName":"Martin Vallory",
 "Country":"Seychelles",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"62",
@@ -556,7 +556,7 @@
 "FirstNameLastName":"Sebastian Gonzales",
 "Country":"Hungary",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"63",
@@ -565,7 +565,7 @@
 "FirstNameLastName":"Ron Seymour",
 "Country":"Chile",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"64",
@@ -574,7 +574,7 @@
 "FirstNameLastName":"Matt Lewis",
 "Country":"Benin",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"65",
@@ -583,7 +583,7 @@
 "FirstNameLastName":"Cameron Mullins",
 "Country":"Saudi Arabia",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"66",
@@ -592,7 +592,7 @@
 "FirstNameLastName":"Benny Umney",
 "Country":"Saint Lucia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"67",
@@ -601,7 +601,7 @@
 "FirstNameLastName":"Trisha Plant",
 "Country":"USA",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"68",
@@ -610,7 +610,7 @@
 "FirstNameLastName":"Denis Jenkin",
 "Country":"Haiti",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"69",
@@ -619,7 +619,7 @@
 "FirstNameLastName":"Kurt Fall",
 "Country":"Namibia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"70",
@@ -628,7 +628,7 @@
 "FirstNameLastName":"Jamie Flett",
 "Country":"Bulgaria",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"71",
@@ -637,7 +637,7 @@
 "FirstNameLastName":"Brad Whittle",
 "Country":"Swaziland",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"72",
@@ -646,7 +646,7 @@
 "FirstNameLastName":"Alan Murray",
 "Country":"Denmark",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"73",
@@ -655,7 +655,7 @@
 "FirstNameLastName":"Eduardo Uttridge",
 "Country":"Comoros",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"74",
@@ -664,7 +664,7 @@
 "FirstNameLastName":"Maddison Benfield",
 "Country":"Belgium",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"75",
@@ -673,7 +673,7 @@
 "FirstNameLastName":"Adeline Murray",
 "Country":"Laos",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"76",
@@ -682,7 +682,7 @@
 "FirstNameLastName":"Emmanuelle Gates",
 "Country":"Slovenia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"77",
@@ -691,7 +691,7 @@
 "FirstNameLastName":"Dalia Shields",
 "Country":"Jamaica",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"78",
@@ -700,7 +700,7 @@
 "FirstNameLastName":"Matthew Marshall",
 "Country":"Tonga",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"79",
@@ -709,7 +709,7 @@
 "FirstNameLastName":"Domenic Phillips",
 "Country":"Angola",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"80",
@@ -718,7 +718,7 @@
 "FirstNameLastName":"Martin Saunders",
 "Country":"Saudi Arabia",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"81",
@@ -727,7 +727,7 @@
 "FirstNameLastName":"Mark Morris",
 "Country":"Myanmar",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"82",
@@ -736,7 +736,7 @@
 "FirstNameLastName":"Elle Stevenson",
 "Country":"Tunisia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"83",
@@ -745,7 +745,7 @@
 "FirstNameLastName":"Kieth Gates",
 "Country":"Serbia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"84",
@@ -754,7 +754,7 @@
 "FirstNameLastName":"Mason Drummond",
 "Country":"Uzbekistan",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"85",
@@ -763,7 +763,7 @@
 "FirstNameLastName":"Lucas Oatway",
 "Country":"Andorra",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"86",
@@ -772,7 +772,7 @@
 "FirstNameLastName":"Amelia Ingram",
 "Country":"Denmark",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"87",
@@ -781,7 +781,7 @@
 "FirstNameLastName":"Bethany Kaur",
 "Country":"Saint Lucia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"88",
@@ -790,7 +790,7 @@
 "FirstNameLastName":"Percy Newton",
 "Country":"Korea, North",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"89",
@@ -799,7 +799,7 @@
 "FirstNameLastName":"Ronald Andrews",
 "Country":"Guyana",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"90",
@@ -808,7 +808,7 @@
 "FirstNameLastName":"Alessia Saunders",
 "Country":"United Kingdom",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"91",
@@ -817,7 +817,7 @@
 "FirstNameLastName":"Johnathan Ripley",
 "Country":"Iraq",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"92",
@@ -826,7 +826,7 @@
 "FirstNameLastName":"Isla Maxwell",
 "Country":"Georgia",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"93",
@@ -835,7 +835,7 @@
 "FirstNameLastName":"Abdul White",
 "Country":"Trinidad and Tobago",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"94",
@@ -844,7 +844,7 @@
 "FirstNameLastName":"Bob Williams",
 "Country":"Cameroon",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"95",
@@ -853,7 +853,7 @@
 "FirstNameLastName":"Michael Clark",
 "Country":"Equatorial Guinea",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"96",
@@ -862,7 +862,7 @@
 "FirstNameLastName":"Judith Pitt",
 "Country":"Luxembourg",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"97",
@@ -871,7 +871,7 @@
 "FirstNameLastName":"Vera Hamilton",
 "Country":"Botswana",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"98",
@@ -880,7 +880,7 @@
 "FirstNameLastName":"Matt Widdows",
 "Country":"Chad",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"99",
@@ -889,7 +889,7 @@
 "FirstNameLastName":"Summer Townend",
 "Country":"Canada",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"100",
@@ -898,7 +898,7 @@
 "FirstNameLastName":"Lara Briggs",
 "Country":"Slovakia",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"101",
@@ -907,7 +907,7 @@
 "FirstNameLastName":"Julian Oldfield",
 "Country":"Iraq",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"102",
@@ -916,7 +916,7 @@
 "FirstNameLastName":"Dani Quinton",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"103",
@@ -925,7 +925,7 @@
 "FirstNameLastName":"Blake Latham",
 "Country":"Bulgaria",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"104",
@@ -934,7 +934,7 @@
 "FirstNameLastName":"Gabriel Brock",
 "Country":"Jamaica",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"105",
@@ -943,7 +943,7 @@
 "FirstNameLastName":"Cameron Paterson",
 "Country":"France",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"106",
@@ -952,7 +952,7 @@
 "FirstNameLastName":"Wendy Wright",
 "Country":"South Africa",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"107",
@@ -961,7 +961,7 @@
 "FirstNameLastName":"Felicity Vangness",
 "Country":"Swaziland",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"108",
@@ -970,7 +970,7 @@
 "FirstNameLastName":"Summer Emerson",
 "Country":"Mali",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"109",
@@ -979,7 +979,7 @@
 "FirstNameLastName":"Luke Jackson",
 "Country":"Samoa",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"110",
@@ -988,7 +988,7 @@
 "FirstNameLastName":"Aiden Ianson",
 "Country":"Germany",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"111",
@@ -997,7 +997,7 @@
 "FirstNameLastName":"Liam Vincent",
 "Country":"Switzerland",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"112",
@@ -1006,7 +1006,7 @@
 "FirstNameLastName":"Brad Graham",
 "Country":"Cambodia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"113",
@@ -1015,7 +1015,7 @@
 "FirstNameLastName":"Danny Eddison",
 "Country":"Bangladesh",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"114",
@@ -1024,7 +1024,7 @@
 "FirstNameLastName":"Manuel Newton",
 "Country":"Venezuela",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"115",
@@ -1033,7 +1033,7 @@
 "FirstNameLastName":"Luna Eyres",
 "Country":"Jamaica",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"116",
@@ -1042,7 +1042,7 @@
 "FirstNameLastName":"Angela Nielson",
 "Country":"Malta",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"117",
@@ -1051,7 +1051,7 @@
 "FirstNameLastName":"Maya Hogg",
 "Country":"Eritrea",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"118",
@@ -1060,7 +1060,7 @@
 "FirstNameLastName":"Jack Jobson",
 "Country":"Benin",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"119",
@@ -1069,7 +1069,7 @@
 "FirstNameLastName":"Denny Eagle",
 "Country":"Switzerland",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"120",
@@ -1078,7 +1078,7 @@
 "FirstNameLastName":"Maxwell Willson",
 "Country":"Tuvalu",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"121",
@@ -1087,7 +1087,7 @@
 "FirstNameLastName":"Miriam Rose",
 "Country":"Iceland",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"122",
@@ -1096,7 +1096,7 @@
 "FirstNameLastName":"Jack Vass",
 "Country":"Congo, Republic of the",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"123",
@@ -1105,7 +1105,7 @@
 "FirstNameLastName":"Alexander Buckley",
 "Country":"Brunei",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"124",
@@ -1114,7 +1114,7 @@
 "FirstNameLastName":"Enoch Rosenbloom",
 "Country":"Andorra",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"125",
@@ -1123,7 +1123,7 @@
 "FirstNameLastName":"Harvey Reid",
 "Country":"Afghanistan",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"126",
@@ -1132,7 +1132,7 @@
 "FirstNameLastName":"Chuck Bristow",
 "Country":"Sierra Leone",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"127",
@@ -1141,7 +1141,7 @@
 "FirstNameLastName":"Adalind Saunders",
 "Country":"Bulgaria",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"128",
@@ -1150,7 +1150,7 @@
 "FirstNameLastName":"Joyce Morrow",
 "Country":"Korea, North",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"129",
@@ -1159,7 +1159,7 @@
 "FirstNameLastName":"Leroy Pond",
 "Country":"Estonia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"130",
@@ -1168,7 +1168,7 @@
 "FirstNameLastName":"Johnny Chapman",
 "Country":"Denmark",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"131",
@@ -1177,7 +1177,7 @@
 "FirstNameLastName":"Martha Callan",
 "Country":"Bhutan",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"132",
@@ -1186,7 +1186,7 @@
 "FirstNameLastName":"Jolene Hilton",
 "Country":"Oman",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"133",
@@ -1195,7 +1195,7 @@
 "FirstNameLastName":"Barry Kelly",
 "Country":"Romania",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"134",
@@ -1204,7 +1204,7 @@
 "FirstNameLastName":"Bob Pearson",
 "Country":"Kosovo",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"135",
@@ -1213,7 +1213,7 @@
 "FirstNameLastName":"Alan Alldridge",
 "Country":"Guatemala",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"136",
@@ -1222,7 +1222,7 @@
 "FirstNameLastName":"Marvin Turner",
 "Country":"Mozambique",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"137",
@@ -1231,7 +1231,7 @@
 "FirstNameLastName":"Matt Wilton",
 "Country":"Equatorial Guinea",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"138",
@@ -1240,7 +1240,7 @@
 "FirstNameLastName":"Thea Cattell",
 "Country":"Maldives",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"139",
@@ -1249,7 +1249,7 @@
 "FirstNameLastName":"Tiffany Newton",
 "Country":"Iraq",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"140",
@@ -1258,7 +1258,7 @@
 "FirstNameLastName":"Henry Ainsworth",
 "Country":"Mongolia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"141",
@@ -1267,7 +1267,7 @@
 "FirstNameLastName":"Fred Greenwood",
 "Country":"Barbados",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"142",
@@ -1276,7 +1276,7 @@
 "FirstNameLastName":"Esmeralda Crawford",
 "Country":"Egypt",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"143",
@@ -1285,7 +1285,7 @@
 "FirstNameLastName":"Maribel Jennson",
 "Country":"Croatia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"144",
@@ -1294,7 +1294,7 @@
 "FirstNameLastName":"Hadley Yates",
 "Country":"Nigeria",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"145",
@@ -1303,7 +1303,7 @@
 "FirstNameLastName":"Jacob Pitt",
 "Country":"Croatia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"146",
@@ -1312,7 +1312,7 @@
 "FirstNameLastName":"Alexia Long",
 "Country":"Somalia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"147",
@@ -1321,7 +1321,7 @@
 "FirstNameLastName":"Ron Sherwood",
 "Country":"Saudi Arabia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"148",
@@ -1330,7 +1330,7 @@
 "FirstNameLastName":"Chad Thompson",
 "Country":"Liberia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"149",
@@ -1339,7 +1339,7 @@
 "FirstNameLastName":"Chad Parr",
 "Country":"Nauru",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"150",
@@ -1348,7 +1348,7 @@
 "FirstNameLastName":"Anthony Stark",
 "Country":"Kazakhstan",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"151",
@@ -1357,7 +1357,7 @@
 "FirstNameLastName":"Remy Jones",
 "Country":"Uzbekistan",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"152",
@@ -1366,7 +1366,7 @@
 "FirstNameLastName":"Ethan Squire",
 "Country":"Turkey",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"153",
@@ -1375,7 +1375,7 @@
 "FirstNameLastName":"Aiden Chester",
 "Country":"Zambia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"154",
@@ -1384,7 +1384,7 @@
 "FirstNameLastName":"Daron Farrant",
 "Country":"Luxembourg",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"155",
@@ -1393,7 +1393,7 @@
 "FirstNameLastName":"Aisha Robinson",
 "Country":"Korea, North",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"156",
@@ -1402,7 +1402,7 @@
 "FirstNameLastName":"Julius Simmons",
 "Country":"Monaco",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"157",
@@ -1411,7 +1411,7 @@
 "FirstNameLastName":"Abdul Goodman",
 "Country":"Zimbabwe",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"158",
@@ -1420,7 +1420,7 @@
 "FirstNameLastName":"Ilona Gavin",
 "Country":"Philippines",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"159",
@@ -1429,7 +1429,7 @@
 "FirstNameLastName":"Florence Eyres",
 "Country":"Argentina",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"160",
@@ -1438,7 +1438,7 @@
 "FirstNameLastName":"Oliver Scott",
 "Country":"Senegal",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"161",
@@ -1447,7 +1447,7 @@
 "FirstNameLastName":"Liam Jordan",
 "Country":"The Gambia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"162",
@@ -1456,7 +1456,7 @@
 "FirstNameLastName":"Chester Ellwood",
 "Country":"Micronesia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"163",
@@ -1465,7 +1465,7 @@
 "FirstNameLastName":"Liam Shields",
 "Country":"Georgia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"164",
@@ -1474,7 +1474,7 @@
 "FirstNameLastName":"Emery Mason",
 "Country":"Bahrain",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"165",
@@ -1483,7 +1483,7 @@
 "FirstNameLastName":"Penny Doherty",
 "Country":"Malaysia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"166",
@@ -1492,7 +1492,7 @@
 "FirstNameLastName":"Claire Ingram",
 "Country":"Iraq",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"167",
@@ -1501,7 +1501,7 @@
 "FirstNameLastName":"Joseph Tyler",
 "Country":"Gabon",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"168",
@@ -1510,7 +1510,7 @@
 "FirstNameLastName":"Iris Nayler",
 "Country":"Myanmar",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"169",
@@ -1519,7 +1519,7 @@
 "FirstNameLastName":"Margot Carter",
 "Country":"Morocco",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"170",
@@ -1528,7 +1528,7 @@
 "FirstNameLastName":"Brooklyn Upton",
 "Country":"The Gambia",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"171",
@@ -1537,7 +1537,7 @@
 "FirstNameLastName":"Julian Turner",
 "Country":"Panama",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"172",
@@ -1546,7 +1546,7 @@
 "FirstNameLastName":"Alan Collis",
 "Country":"The Gambia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"173",
@@ -1555,7 +1555,7 @@
 "FirstNameLastName":"Rufus Hopkinson",
 "Country":"Rwanda",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"174",
@@ -1564,7 +1564,7 @@
 "FirstNameLastName":"Karla Veale",
 "Country":"Saint Vincent and the Grenadines",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"175",
@@ -1573,7 +1573,7 @@
 "FirstNameLastName":"Drew Gray",
 "Country":"Mexico",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"176",
@@ -1582,7 +1582,7 @@
 "FirstNameLastName":"Fred Harvey",
 "Country":"Papua New Guinea",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"177",
@@ -1591,7 +1591,7 @@
 "FirstNameLastName":"Adela Harper",
 "Country":"Japan",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"178",
@@ -1600,7 +1600,7 @@
 "FirstNameLastName":"Clint Todd",
 "Country":"Rwanda",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"179",
@@ -1609,7 +1609,7 @@
 "FirstNameLastName":"Rita Thorpe",
 "Country":"Tonga",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"180",
@@ -1618,7 +1618,7 @@
 "FirstNameLastName":"Matt Underhill",
 "Country":"Palau",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"181",
@@ -1627,7 +1627,7 @@
 "FirstNameLastName":"Olivia Dobson",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"182",
@@ -1636,7 +1636,7 @@
 "FirstNameLastName":"Chuck Herbert",
 "Country":"Netherlands",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"183",
@@ -1645,7 +1645,7 @@
 "FirstNameLastName":"Tyson Taylor",
 "Country":"Bangladesh",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"184",
@@ -1654,7 +1654,7 @@
 "FirstNameLastName":"Mike Gardner",
 "Country":"Thailand",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"185",
@@ -1663,7 +1663,7 @@
 "FirstNameLastName":"Joseph Wade",
 "Country":"The Gambia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"186",
@@ -1672,7 +1672,7 @@
 "FirstNameLastName":"Sofia Ross",
 "Country":"Kuwait",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"187",
@@ -1681,7 +1681,7 @@
 "FirstNameLastName":"Mark Jenkins",
 "Country":"Slovenia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"188",
@@ -1690,7 +1690,7 @@
 "FirstNameLastName":"Tyson Shields",
 "Country":"Tunisia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"189",
@@ -1699,7 +1699,7 @@
 "FirstNameLastName":"Luke Watson",
 "Country":"Bahrain",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"190",
@@ -1708,7 +1708,7 @@
 "FirstNameLastName":"Doug Nicolas",
 "Country":"Argentina",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"191",
@@ -1717,7 +1717,7 @@
 "FirstNameLastName":"George Fisher",
 "Country":"Cuba",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"192",
@@ -1726,7 +1726,7 @@
 "FirstNameLastName":"Brooklyn Knight",
 "Country":"India",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"193",
@@ -1735,7 +1735,7 @@
 "FirstNameLastName":"Monica Shields",
 "Country":"Mozambique",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"194",
@@ -1744,7 +1744,7 @@
 "FirstNameLastName":"Johnathan Sinclair",
 "Country":"Bahrain",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"195",
@@ -1753,7 +1753,7 @@
 "FirstNameLastName":"Maggie Farrant",
 "Country":"Bolivia",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"196",
@@ -1762,7 +1762,7 @@
 "FirstNameLastName":"Gil Rowan",
 "Country":"El Salvador",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"197",
@@ -1771,7 +1771,7 @@
 "FirstNameLastName":"Kurt Poole",
 "Country":"Dominica",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"198",
@@ -1780,7 +1780,7 @@
 "FirstNameLastName":"Lauren Chappell",
 "Country":"Czech Republic",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"199",
@@ -1789,7 +1789,7 @@
 "FirstNameLastName":"Leslie Walker",
 "Country":"Greece",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"200",
@@ -1798,7 +1798,7 @@
 "FirstNameLastName":"Johnny Rowan",
 "Country":"Latvia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"201",
@@ -1807,7 +1807,7 @@
 "FirstNameLastName":"Raquel Kidd",
 "Country":"Seychelles",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"202",
@@ -1816,7 +1816,7 @@
 "FirstNameLastName":"Carrie Simpson",
 "Country":"Solomon Islands",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"203",
@@ -1825,7 +1825,7 @@
 "FirstNameLastName":"Tyson Allen",
 "Country":"Syria",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"204",
@@ -1834,7 +1834,7 @@
 "FirstNameLastName":"Tyler Benson",
 "Country":"Trinidad and Tobago",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"205",
@@ -1843,7 +1843,7 @@
 "FirstNameLastName":"Gabriel Purvis",
 "Country":"Mauritania",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"206",
@@ -1852,7 +1852,7 @@
 "FirstNameLastName":"Macy Bullock",
 "Country":"Mauritania",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"207",
@@ -1861,7 +1861,7 @@
 "FirstNameLastName":"Julia Mcgregor",
 "Country":"Samoa",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"208",
@@ -1870,7 +1870,7 @@
 "FirstNameLastName":"Michael Rodwell",
 "Country":"Grenada",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"209",
@@ -1879,7 +1879,7 @@
 "FirstNameLastName":"Anthony Ballard",
 "Country":"Nicaragua",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"210",
@@ -1888,7 +1888,7 @@
 "FirstNameLastName":"Hank Atkinson",
 "Country":"Sri Lanka",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"211",
@@ -1897,7 +1897,7 @@
 "FirstNameLastName":"Leroy Styles",
 "Country":"Syria",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"212",
@@ -1906,7 +1906,7 @@
 "FirstNameLastName":"David Russel",
 "Country":"Slovakia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"213",
@@ -1915,7 +1915,7 @@
 "FirstNameLastName":"Christine Todd",
 "Country":"Austria",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"214",
@@ -1924,7 +1924,7 @@
 "FirstNameLastName":"Meredith Snow",
 "Country":"The Bahamas",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"215",
@@ -1933,7 +1933,7 @@
 "FirstNameLastName":"Jasmine Moss",
 "Country":"The Gambia",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"216",
@@ -1942,7 +1942,7 @@
 "FirstNameLastName":"Karla Notman",
 "Country":"Angola",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"217",
@@ -1951,7 +1951,7 @@
 "FirstNameLastName":"Erick Maxwell",
 "Country":"Ecuador",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"218",
@@ -1960,7 +1960,7 @@
 "FirstNameLastName":"Luke Clifton",
 "Country":"Poland",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"219",
@@ -1969,7 +1969,7 @@
 "FirstNameLastName":"Bob Kaur",
 "Country":"Uzbekistan",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"220",
@@ -1978,7 +1978,7 @@
 "FirstNameLastName":"Domenic Bradley",
 "Country":"Nauru",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"221",
@@ -1987,7 +1987,7 @@
 "FirstNameLastName":"Luna Cox",
 "Country":"Kuwait",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"222",
@@ -1996,7 +1996,7 @@
 "FirstNameLastName":"Alexa Higgs",
 "Country":"Norway",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"223",
@@ -2005,7 +2005,7 @@
 "FirstNameLastName":"Lorraine Roman",
 "Country":"Swaziland",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"224",
@@ -2014,7 +2014,7 @@
 "FirstNameLastName":"Tess Hilton",
 "Country":"Sweden",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"225",
@@ -2023,7 +2023,7 @@
 "FirstNameLastName":"Nathan Redwood",
 "Country":"Portugal",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"226",
@@ -2032,7 +2032,7 @@
 "FirstNameLastName":"Tess Abbot",
 "Country":"Saint Kitts and Nevis",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"227",
@@ -2041,7 +2041,7 @@
 "FirstNameLastName":"Marie Swan",
 "Country":"Belize",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"228",
@@ -2050,7 +2050,7 @@
 "FirstNameLastName":"Sydney Pierce",
 "Country":"Swaziland",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"229",
@@ -2059,7 +2059,7 @@
 "FirstNameLastName":"Ember Flack",
 "Country":"Turkey",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"230",
@@ -2068,7 +2068,7 @@
 "FirstNameLastName":"Hailey Vaughan",
 "Country":"Malta",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"231",
@@ -2077,7 +2077,7 @@
 "FirstNameLastName":"Domenic Allwood",
 "Country":"Afghanistan",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"232",
@@ -2086,7 +2086,7 @@
 "FirstNameLastName":"Kurt Bradshaw",
 "Country":"The Gambia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"233",
@@ -2095,7 +2095,7 @@
 "FirstNameLastName":"Nick Middleton",
 "Country":"Uzbekistan",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"234",
@@ -2104,7 +2104,7 @@
 "FirstNameLastName":"Alex Penn",
 "Country":"Saint Lucia",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"235",
@@ -2113,7 +2113,7 @@
 "FirstNameLastName":"Noemi Roberts",
 "Country":"Saint Lucia",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"236",
@@ -2122,7 +2122,7 @@
 "FirstNameLastName":"Harvey Coll",
 "Country":"Zambia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"237",
@@ -2131,7 +2131,7 @@
 "FirstNameLastName":"Johnny Wooldridge",
 "Country":"Mongolia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"238",
@@ -2140,7 +2140,7 @@
 "FirstNameLastName":"Sabrina Lane",
 "Country":"Slovakia",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"239",
@@ -2149,7 +2149,7 @@
 "FirstNameLastName":"Rocco Robinson",
 "Country":"Thailand",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"240",
@@ -2158,7 +2158,7 @@
 "FirstNameLastName":"Daniel Drew",
 "Country":"Moldova",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"241",
@@ -2167,7 +2167,7 @@
 "FirstNameLastName":"Agnes Carter",
 "Country":"Chad",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"242",
@@ -2176,7 +2176,7 @@
 "FirstNameLastName":"Charlotte Carpenter",
 "Country":"Montenegro",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"243",
@@ -2185,7 +2185,7 @@
 "FirstNameLastName":"Hayden Dickson",
 "Country":"Tajikistan",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"244",
@@ -2194,7 +2194,7 @@
 "FirstNameLastName":"Hannah Oakley",
 "Country":"Samoa",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"245",
@@ -2203,7 +2203,7 @@
 "FirstNameLastName":"Amelia Moore",
 "Country":"Bosnia and Herzegovina",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"246",
@@ -2212,7 +2212,7 @@
 "FirstNameLastName":"Phillip Larkin",
 "Country":"Afghanistan",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"247",
@@ -2221,7 +2221,7 @@
 "FirstNameLastName":"Sienna Russell",
 "Country":"Azerbaijan",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"248",
@@ -2230,7 +2230,7 @@
 "FirstNameLastName":"Benjamin Ellwood",
 "Country":"Brunei",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"249",
@@ -2239,7 +2239,7 @@
 "FirstNameLastName":"Ivy Dunbar",
 "Country":"Maldives",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"250",
@@ -2248,7 +2248,7 @@
 "FirstNameLastName":"Hazel Higgs",
 "Country":"Nigeria",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"251",
@@ -2257,7 +2257,7 @@
 "FirstNameLastName":"Logan Simmons",
 "Country":"Angola",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"252",
@@ -2266,7 +2266,7 @@
 "FirstNameLastName":"Domenic Hammond",
 "Country":"Turkmenistan",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"253",
@@ -2275,7 +2275,7 @@
 "FirstNameLastName":"Grace Cunningham",
 "Country":"Jamaica",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"254",
@@ -2284,7 +2284,7 @@
 "FirstNameLastName":"Trisha Sanchez",
 "Country":"Palau",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"255",
@@ -2293,7 +2293,7 @@
 "FirstNameLastName":"Jazmin Fowler",
 "Country":"Denmark",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"256",
@@ -2302,7 +2302,7 @@
 "FirstNameLastName":"Winnie Wood",
 "Country":"Venezuela",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"257",
@@ -2311,7 +2311,7 @@
 "FirstNameLastName":"Roger Walton",
 "Country":"Ghana",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"258",
@@ -2320,7 +2320,7 @@
 "FirstNameLastName":"Julia Samuel",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"259",
@@ -2329,7 +2329,7 @@
 "FirstNameLastName":"Rocco Broomfield",
 "Country":"Macedonia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"260",
@@ -2338,7 +2338,7 @@
 "FirstNameLastName":"Roger Needham",
 "Country":"Kosovo",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"261",
@@ -2347,7 +2347,7 @@
 "FirstNameLastName":"Martin Saunders",
 "Country":"Ghana",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"262",
@@ -2356,7 +2356,7 @@
 "FirstNameLastName":"Ethan Irving",
 "Country":"USA",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"263",
@@ -2365,7 +2365,7 @@
 "FirstNameLastName":"Brad Corbett",
 "Country":"Togo",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"264",
@@ -2374,7 +2374,7 @@
 "FirstNameLastName":"Kimberly Pratt",
 "Country":"Madagascar",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"265",
@@ -2383,7 +2383,7 @@
 "FirstNameLastName":"Emma White",
 "Country":"Ghana",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"266",
@@ -2392,7 +2392,7 @@
 "FirstNameLastName":"Chris Blythe",
 "Country":"Turkmenistan",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"267",
@@ -2401,7 +2401,7 @@
 "FirstNameLastName":"Grace Zaoui",
 "Country":"Spain",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"268",
@@ -2410,7 +2410,7 @@
 "FirstNameLastName":"Jacob Clifton",
 "Country":"Azerbaijan",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"269",
@@ -2419,7 +2419,7 @@
 "FirstNameLastName":"Fiona Benson",
 "Country":"Uganda",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"270",
@@ -2428,7 +2428,7 @@
 "FirstNameLastName":"Quinn Clayton",
 "Country":"Swaziland",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"271",
@@ -2437,7 +2437,7 @@
 "FirstNameLastName":"Martha Mullins",
 "Country":"Tonga",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"272",
@@ -2446,7 +2446,7 @@
 "FirstNameLastName":"Emerald Thomas",
 "Country":"Albania",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"273",
@@ -2455,7 +2455,7 @@
 "FirstNameLastName":"Bart Bryant",
 "Country":"Azerbaijan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"274",
@@ -2464,7 +2464,7 @@
 "FirstNameLastName":"Sage Olivier",
 "Country":"Comoros",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"275",
@@ -2473,7 +2473,7 @@
 "FirstNameLastName":"Louise Mason",
 "Country":"Armenia",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"276",
@@ -2482,7 +2482,7 @@
 "FirstNameLastName":"Brad Henderson",
 "Country":"Djibouti",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"277",
@@ -2491,7 +2491,7 @@
 "FirstNameLastName":"Ramon Adler",
 "Country":"Armenia",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"278",
@@ -2500,7 +2500,7 @@
 "FirstNameLastName":"Ronald Cooper",
 "Country":"Kosovo",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"279",
@@ -2509,7 +2509,7 @@
 "FirstNameLastName":"Danny Lloyd",
 "Country":"Bhutan",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"280",
@@ -2518,7 +2518,7 @@
 "FirstNameLastName":"Enoch Lindop",
 "Country":"Uzbekistan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"281",
@@ -2527,7 +2527,7 @@
 "FirstNameLastName":"Luke Michael",
 "Country":"Seychelles",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"282",
@@ -2536,7 +2536,7 @@
 "FirstNameLastName":"Aeris Riley",
 "Country":"Barbados",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"283",
@@ -2545,7 +2545,7 @@
 "FirstNameLastName":"Matt Donovan",
 "Country":"Malta",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"284",
@@ -2554,7 +2554,7 @@
 "FirstNameLastName":"Mike Bell",
 "Country":"Jamaica",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"285",
@@ -2563,7 +2563,7 @@
 "FirstNameLastName":"Clint Rowlands",
 "Country":"Zimbabwe",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"286",
@@ -2572,7 +2572,7 @@
 "FirstNameLastName":"Peter Walsh",
 "Country":"Tuvalu",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"287",
@@ -2581,7 +2581,7 @@
 "FirstNameLastName":"Nicholas Carson",
 "Country":"Thailand",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"288",
@@ -2590,7 +2590,7 @@
 "FirstNameLastName":"Victoria Shaw",
 "Country":"Vanuatu",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"289",
@@ -2599,7 +2599,7 @@
 "FirstNameLastName":"Lorraine Squire",
 "Country":"Kenya",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"290",
@@ -2608,7 +2608,7 @@
 "FirstNameLastName":"Denis Baker",
 "Country":"Angola",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"291",
@@ -2617,7 +2617,7 @@
 "FirstNameLastName":"Adeline Button",
 "Country":"Sierra Leone",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"292",
@@ -2626,7 +2626,7 @@
 "FirstNameLastName":"Morgan Shelton",
 "Country":"Tonga",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"293",
@@ -2635,7 +2635,7 @@
 "FirstNameLastName":"Cara Holmes",
 "Country":"Barbados",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"294",
@@ -2644,7 +2644,7 @@
 "FirstNameLastName":"Johnny Pearson",
 "Country":"Korea, North",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"295",
@@ -2653,7 +2653,7 @@
 "FirstNameLastName":"David Keys",
 "Country":"Morocco",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"296",
@@ -2662,7 +2662,7 @@
 "FirstNameLastName":"Naomi Brooks",
 "Country":"Malaysia",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"297",
@@ -2671,7 +2671,7 @@
 "FirstNameLastName":"Matthew Myatt",
 "Country":"Guyana",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"298",
@@ -2680,7 +2680,7 @@
 "FirstNameLastName":"Beatrice Nelson",
 "Country":"Ecuador",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"299",
@@ -2689,7 +2689,7 @@
 "FirstNameLastName":"Jacob Haines",
 "Country":"Liberia",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"300",
@@ -2698,7 +2698,7 @@
 "FirstNameLastName":"Chuck Grant",
 "Country":"El Salvador",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"301",
@@ -2707,7 +2707,7 @@
 "FirstNameLastName":"Ivy Kelly",
 "Country":"Macedonia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"302",
@@ -2716,7 +2716,7 @@
 "FirstNameLastName":"Rufus Eaton",
 "Country":"Thailand",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"303",
@@ -2725,7 +2725,7 @@
 "FirstNameLastName":"Taylor Ebden",
 "Country":"Fiji",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"304",
@@ -2734,7 +2734,7 @@
 "FirstNameLastName":"Lindsay Roberts",
 "Country":"Bolivia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"305",
@@ -2743,7 +2743,7 @@
 "FirstNameLastName":"Emerald Khan",
 "Country":"Gabon",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"306",
@@ -2752,7 +2752,7 @@
 "FirstNameLastName":"Kieth Glynn",
 "Country":"Iran",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"307",
@@ -2761,7 +2761,7 @@
 "FirstNameLastName":"Jennifer Hewitt",
 "Country":"Sri Lanka",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"308",
@@ -2770,7 +2770,7 @@
 "FirstNameLastName":"Johnny Drummond",
 "Country":"Canada",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"309",
@@ -2779,7 +2779,7 @@
 "FirstNameLastName":"Martin Glynn",
 "Country":"Malawi",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"310",
@@ -2788,7 +2788,7 @@
 "FirstNameLastName":"Lily Hobson",
 "Country":"Ecuador",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"311",
@@ -2797,7 +2797,7 @@
 "FirstNameLastName":"Erick Sylvester",
 "Country":"Libya",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"312",
@@ -2806,7 +2806,7 @@
 "FirstNameLastName":"Manuel Daniells",
 "Country":"Mexico",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"313",
@@ -2815,7 +2815,7 @@
 "FirstNameLastName":"Mayleen Rose",
 "Country":"Czech Republic",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"314",
@@ -2824,7 +2824,7 @@
 "FirstNameLastName":"Dalia Shea",
 "Country":"The Bahamas",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"315",
@@ -2833,7 +2833,7 @@
 "FirstNameLastName":"Felicity Townend",
 "Country":"Namibia",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"316",
@@ -2842,7 +2842,7 @@
 "FirstNameLastName":"Jack Cavanagh",
 "Country":"Costa Rica",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"317",
@@ -2851,7 +2851,7 @@
 "FirstNameLastName":"Caydence Nanton",
 "Country":"Equatorial Guinea",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"318",
@@ -2860,7 +2860,7 @@
 "FirstNameLastName":"Leilani Graham",
 "Country":"Serbia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"319",
@@ -2869,7 +2869,7 @@
 "FirstNameLastName":"Teagan Oatway",
 "Country":"Honduras",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"320",
@@ -2878,7 +2878,7 @@
 "FirstNameLastName":"Jolene Callan",
 "Country":"Pakistan",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"321",
@@ -2887,7 +2887,7 @@
 "FirstNameLastName":"Josh Marshall",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"322",
@@ -2896,7 +2896,7 @@
 "FirstNameLastName":"Bob Janes",
 "Country":"Iceland",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"323",
@@ -2905,7 +2905,7 @@
 "FirstNameLastName":"Mike Nelson",
 "Country":"Kuwait",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"324",
@@ -2914,7 +2914,7 @@
 "FirstNameLastName":"Eduardo Rees",
 "Country":"Thailand",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"325",
@@ -2923,7 +2923,7 @@
 "FirstNameLastName":"Juliet Gray",
 "Country":"Kazakhstan",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"326",
@@ -2932,7 +2932,7 @@
 "FirstNameLastName":"Jack Walsh",
 "Country":"Bolivia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"327",
@@ -2941,7 +2941,7 @@
 "FirstNameLastName":"Alexa Coates",
 "Country":"Palau",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"328",
@@ -2950,7 +2950,7 @@
 "FirstNameLastName":"Jasmine Hood",
 "Country":"Denmark",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"329",
@@ -2959,7 +2959,7 @@
 "FirstNameLastName":"Livia Vinton",
 "Country":"Macedonia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"330",
@@ -2968,7 +2968,7 @@
 "FirstNameLastName":"Matthew Redfern",
 "Country":"Namibia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"331",
@@ -2977,7 +2977,7 @@
 "FirstNameLastName":"Rocco Alexander",
 "Country":"Zambia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"332",
@@ -2986,7 +2986,7 @@
 "FirstNameLastName":"Dasha Williams",
 "Country":"Angola",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"333",
@@ -2995,7 +2995,7 @@
 "FirstNameLastName":"Taylor Lewis",
 "Country":"Ireland",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"334",
@@ -3004,7 +3004,7 @@
 "FirstNameLastName":"Sabina Saunders",
 "Country":"Portugal",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"335",
@@ -3013,7 +3013,7 @@
 "FirstNameLastName":"Clint Reid",
 "Country":"Malaysia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"336",
@@ -3022,7 +3022,7 @@
 "FirstNameLastName":"Abdul Shields",
 "Country":"Indonesia",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"337",
@@ -3031,7 +3031,7 @@
 "FirstNameLastName":"Leslie Ellison",
 "Country":"Malta",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"338",
@@ -3040,7 +3040,7 @@
 "FirstNameLastName":"Rocco Norman",
 "Country":"New Zealand",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"339",
@@ -3049,7 +3049,7 @@
 "FirstNameLastName":"George Shields",
 "Country":"Cuba",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"340",
@@ -3058,7 +3058,7 @@
 "FirstNameLastName":"Freya Nicholls",
 "Country":"Russia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"341",
@@ -3067,7 +3067,7 @@
 "FirstNameLastName":"Rick Andrews",
 "Country":"Mongolia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"342",
@@ -3076,7 +3076,7 @@
 "FirstNameLastName":"Sarah Benson",
 "Country":"Germany",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"343",
@@ -3085,7 +3085,7 @@
 "FirstNameLastName":"Josh Stark",
 "Country":"Niger",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"344",
@@ -3094,7 +3094,7 @@
 "FirstNameLastName":"Abdul Clayton",
 "Country":"Mauritania",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"345",
@@ -3103,7 +3103,7 @@
 "FirstNameLastName":"Tyson Turner",
 "Country":"Slovenia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"346",
@@ -3112,7 +3112,7 @@
 "FirstNameLastName":"David Cunningham",
 "Country":"Ukraine",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"347",
@@ -3121,7 +3121,7 @@
 "FirstNameLastName":"Benjamin Attwood",
 "Country":"Costa Rica",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"348",
@@ -3130,7 +3130,7 @@
 "FirstNameLastName":"John Ashley",
 "Country":"Serbia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"349",
@@ -3139,7 +3139,7 @@
 "FirstNameLastName":"Bryon Redfern",
 "Country":"Greece",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"350",
@@ -3148,7 +3148,7 @@
 "FirstNameLastName":"Shelby Wright",
 "Country":"Tajikistan",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"351",
@@ -3157,7 +3157,7 @@
 "FirstNameLastName":"Leanne Mcgee",
 "Country":"Montenegro",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"352",
@@ -3166,7 +3166,7 @@
 "FirstNameLastName":"Carla Marshall",
 "Country":"Antigua and Barbuda",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"353",
@@ -3175,7 +3175,7 @@
 "FirstNameLastName":"Ronald Lucas",
 "Country":"Somalia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"354",
@@ -3184,7 +3184,7 @@
 "FirstNameLastName":"Benny Huggins",
 "Country":"Cuba",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"355",
@@ -3193,7 +3193,7 @@
 "FirstNameLastName":"Rihanna Wilton",
 "Country":"Grenada",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"356",
@@ -3202,7 +3202,7 @@
 "FirstNameLastName":"Sasha Murray",
 "Country":"Namibia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"357",
@@ -3211,7 +3211,7 @@
 "FirstNameLastName":"Faith Edley",
 "Country":"Ukraine",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"358",
@@ -3220,7 +3220,7 @@
 "FirstNameLastName":"George Radley",
 "Country":"Senegal",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"359",
@@ -3229,7 +3229,7 @@
 "FirstNameLastName":"Blake Barrett",
 "Country":"Guyana",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"360",
@@ -3238,7 +3238,7 @@
 "FirstNameLastName":"Tom Bell",
 "Country":"Czech Republic",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"361",
@@ -3247,7 +3247,7 @@
 "FirstNameLastName":"Phillip Hunter",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"362",
@@ -3256,7 +3256,7 @@
 "FirstNameLastName":"Leah Vallory",
 "Country":"Italy",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"363",
@@ -3265,7 +3265,7 @@
 "FirstNameLastName":"Chad Yoman",
 "Country":"Niger",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"364",
@@ -3274,7 +3274,7 @@
 "FirstNameLastName":"Daniel Shelton",
 "Country":"Sudan, South",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"365",
@@ -3283,7 +3283,7 @@
 "FirstNameLastName":"Analise Edler",
 "Country":"Congo, Republic of the",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"366",
@@ -3292,7 +3292,7 @@
 "FirstNameLastName":"Alison Drummond",
 "Country":"Indonesia",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"367",
@@ -3301,7 +3301,7 @@
 "FirstNameLastName":"Chelsea Waterhouse",
 "Country":"Chile",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"368",
@@ -3310,7 +3310,7 @@
 "FirstNameLastName":"Alice Harrison",
 "Country":"Lithuania",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"369",
@@ -3319,7 +3319,7 @@
 "FirstNameLastName":"Molly Brock",
 "Country":"Kiribati",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"370",
@@ -3328,7 +3328,7 @@
 "FirstNameLastName":"Percy Pratt",
 "Country":"Kenya",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"371",
@@ -3337,7 +3337,7 @@
 "FirstNameLastName":"Johnathan Bell",
 "Country":"Mexico",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"372",
@@ -3346,7 +3346,7 @@
 "FirstNameLastName":"Roger James",
 "Country":"Slovakia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"373",
@@ -3355,7 +3355,7 @@
 "FirstNameLastName":"Emma Dunbar",
 "Country":"Spain",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"374",
@@ -3364,7 +3364,7 @@
 "FirstNameLastName":"Isabella Vernon",
 "Country":"Montenegro",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"375",
@@ -3373,7 +3373,7 @@
 "FirstNameLastName":"Chelsea Hunter",
 "Country":"Ukraine",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"376",
@@ -3382,7 +3382,7 @@
 "FirstNameLastName":"Rick Hilton",
 "Country":"Andorra",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"377",
@@ -3391,7 +3391,7 @@
 "FirstNameLastName":"Tony Bennett",
 "Country":"Korea, North",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"378",
@@ -3400,7 +3400,7 @@
 "FirstNameLastName":"Barney Tobin",
 "Country":"Sao Tome and Principe",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"379",
@@ -3409,7 +3409,7 @@
 "FirstNameLastName":"Alan Asher",
 "Country":"Norway",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"380",
@@ -3418,7 +3418,7 @@
 "FirstNameLastName":"Gil Vince",
 "Country":"Bulgaria",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"381",
@@ -3427,7 +3427,7 @@
 "FirstNameLastName":"Johnny Bradshaw",
 "Country":"Croatia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"382",
@@ -3436,7 +3436,7 @@
 "FirstNameLastName":"Keira Grady",
 "Country":"Tanzania",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"383",
@@ -3445,7 +3445,7 @@
 "FirstNameLastName":"Bryce Stanton",
 "Country":"Luxembourg",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"384",
@@ -3454,7 +3454,7 @@
 "FirstNameLastName":"Alan Moore",
 "Country":"Argentina",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"385",
@@ -3463,7 +3463,7 @@
 "FirstNameLastName":"Rocco Gregory",
 "Country":"Swaziland",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"386",
@@ -3472,7 +3472,7 @@
 "FirstNameLastName":"Hayden Allington",
 "Country":"Jamaica",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"387",
@@ -3481,7 +3481,7 @@
 "FirstNameLastName":"Julianna Edley",
 "Country":"Estonia",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"388",
@@ -3490,7 +3490,7 @@
 "FirstNameLastName":"Marvin Pitt",
 "Country":"Cyprus",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"389",
@@ -3499,7 +3499,7 @@
 "FirstNameLastName":"Eduardo Carson",
 "Country":"Jordan",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"390",
@@ -3508,7 +3508,7 @@
 "FirstNameLastName":"Daron Benfield",
 "Country":"Algeria",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"391",
@@ -3517,7 +3517,7 @@
 "FirstNameLastName":"Susan Morrison",
 "Country":"Iran",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"392",
@@ -3526,7 +3526,7 @@
 "FirstNameLastName":"Gwenyth Carson",
 "Country":"Antigua and Barbuda",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"393",
@@ -3535,7 +3535,7 @@
 "FirstNameLastName":"Rocco Reyes",
 "Country":"Iraq",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"394",
@@ -3544,7 +3544,7 @@
 "FirstNameLastName":"Quinn Lewis",
 "Country":"Dominica",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"395",
@@ -3553,7 +3553,7 @@
 "FirstNameLastName":"Maia Vinton",
 "Country":"Swaziland",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"396",
@@ -3562,7 +3562,7 @@
 "FirstNameLastName":"Denis Gordon",
 "Country":"Antigua and Barbuda",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"397",
@@ -3571,7 +3571,7 @@
 "FirstNameLastName":"Tom Kennedy",
 "Country":"Antigua and Barbuda",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"398",
@@ -3580,7 +3580,7 @@
 "FirstNameLastName":"Camila Driscoll",
 "Country":"Kenya",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"399",
@@ -3589,7 +3589,7 @@
 "FirstNameLastName":"Tara Wood",
 "Country":"Swaziland",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"400",
@@ -3598,7 +3598,7 @@
 "FirstNameLastName":"Rita Brock",
 "Country":"Monaco",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"401",
@@ -3607,7 +3607,7 @@
 "FirstNameLastName":"Shannon Gibson",
 "Country":"Bhutan",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"402",
@@ -3616,7 +3616,7 @@
 "FirstNameLastName":"Denny Holmes",
 "Country":"Jamaica",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"403",
@@ -3625,7 +3625,7 @@
 "FirstNameLastName":"Marvin Townend",
 "Country":"Venezuela",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"404",
@@ -3634,7 +3634,7 @@
 "FirstNameLastName":"Hannah Ralph",
 "Country":"Mexico",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"405",
@@ -3643,7 +3643,7 @@
 "FirstNameLastName":"Anthony Edmonds",
 "Country":"Myanmar",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"406",
@@ -3652,7 +3652,7 @@
 "FirstNameLastName":"Jade Donovan",
 "Country":"Jordan",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"407",
@@ -3661,7 +3661,7 @@
 "FirstNameLastName":"Vicky Stewart",
 "Country":"Malawi",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"408",
@@ -3670,7 +3670,7 @@
 "FirstNameLastName":"Ramon Eagle",
 "Country":"Malta",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"409",
@@ -3679,7 +3679,7 @@
 "FirstNameLastName":"Goldie Wilde",
 "Country":"Botswana",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"410",
@@ -3688,7 +3688,7 @@
 "FirstNameLastName":"Erick Vaughan",
 "Country":"Somalia",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"411",
@@ -3697,7 +3697,7 @@
 "FirstNameLastName":"Isabella Judd",
 "Country":"Trinidad and Tobago",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"412",
@@ -3706,7 +3706,7 @@
 "FirstNameLastName":"Hayden Murray",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"413",
@@ -3715,7 +3715,7 @@
 "FirstNameLastName":"Rihanna Brennan",
 "Country":"Malta",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"414",
@@ -3724,7 +3724,7 @@
 "FirstNameLastName":"Ellen Upton",
 "Country":"Eritrea",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"415",
@@ -3733,7 +3733,7 @@
 "FirstNameLastName":"Erick Grant",
 "Country":"Mauritania",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"416",
@@ -3742,7 +3742,7 @@
 "FirstNameLastName":"Daria Nielson",
 "Country":"United Arab Emirates",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"417",
@@ -3751,7 +3751,7 @@
 "FirstNameLastName":"Stacy Terry",
 "Country":"Papua New Guinea",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"418",
@@ -3760,7 +3760,7 @@
 "FirstNameLastName":"Matt Vince",
 "Country":"Côte d’Ivoire",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"419",
@@ -3769,7 +3769,7 @@
 "FirstNameLastName":"Emery Andrews",
 "Country":"Sudan",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"420",
@@ -3778,7 +3778,7 @@
 "FirstNameLastName":"Britney Holt",
 "Country":"Senegal",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"421",
@@ -3787,7 +3787,7 @@
 "FirstNameLastName":"Ramon Garner",
 "Country":"Swaziland",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"422",
@@ -3796,7 +3796,7 @@
 "FirstNameLastName":"Denny Tait",
 "Country":"Andorra",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"423",
@@ -3805,7 +3805,7 @@
 "FirstNameLastName":"Isabel Edler",
 "Country":"Syria",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"424",
@@ -3814,7 +3814,7 @@
 "FirstNameLastName":"Chris Everett",
 "Country":"Saint Vincent and the Grenadines",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"425",
@@ -3823,7 +3823,7 @@
 "FirstNameLastName":"Ronald Everett",
 "Country":"Albania",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"426",
@@ -3832,7 +3832,7 @@
 "FirstNameLastName":"Gloria Ashwell",
 "Country":"Austria",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"427",
@@ -3841,7 +3841,7 @@
 "FirstNameLastName":"Martin Clarke",
 "Country":"Guinea",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"428",
@@ -3850,7 +3850,7 @@
 "FirstNameLastName":"Miriam Miller",
 "Country":"Armenia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"429",
@@ -3859,7 +3859,7 @@
 "FirstNameLastName":"Zara Plumb",
 "Country":"Bhutan",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"430",
@@ -3868,7 +3868,7 @@
 "FirstNameLastName":"Darlene Stubbs",
 "Country":"South Africa",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"431",
@@ -3877,7 +3877,7 @@
 "FirstNameLastName":"Kendra Hewitt",
 "Country":"Yemen",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"432",
@@ -3886,7 +3886,7 @@
 "FirstNameLastName":"Chester Upton",
 "Country":"Gabon",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"433",
@@ -3895,7 +3895,7 @@
 "FirstNameLastName":"Domenic Russell",
 "Country":"Angola",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"434",
@@ -3904,7 +3904,7 @@
 "FirstNameLastName":"Abdul Baldwin",
 "Country":"Serbia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"435",
@@ -3913,7 +3913,7 @@
 "FirstNameLastName":"Domenic Lane",
 "Country":"Israel",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"436",
@@ -3922,7 +3922,7 @@
 "FirstNameLastName":"Florence Abbot",
 "Country":"Myanmar",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"437",
@@ -3931,7 +3931,7 @@
 "FirstNameLastName":"Leroy Marshall",
 "Country":"Costa Rica",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"438",
@@ -3940,7 +3940,7 @@
 "FirstNameLastName":"Macy Evans",
 "Country":"Solomon Islands",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"439",
@@ -3949,7 +3949,7 @@
 "FirstNameLastName":"Russel Swift",
 "Country":"Jamaica",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"440",
@@ -3958,7 +3958,7 @@
 "FirstNameLastName":"Marvin Hammond",
 "Country":"Bhutan",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"441",
@@ -3967,7 +3967,7 @@
 "FirstNameLastName":"Roger Oliver",
 "Country":"Nepal",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"442",
@@ -3976,7 +3976,7 @@
 "FirstNameLastName":"Kenzie Robe",
 "Country":"Canada",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"443",
@@ -3985,7 +3985,7 @@
 "FirstNameLastName":"Abbey Vallins",
 "Country":"Egypt",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"444",
@@ -3994,7 +3994,7 @@
 "FirstNameLastName":"Sage Ballard",
 "Country":"Vatican City",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"445",
@@ -4003,7 +4003,7 @@
 "FirstNameLastName":"Alexia Mcgregor",
 "Country":"Netherlands",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"446",
@@ -4012,7 +4012,7 @@
 "FirstNameLastName":"Nicholas Lucas",
 "Country":"Tajikistan",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"447",
@@ -4021,7 +4021,7 @@
 "FirstNameLastName":"Angela Shaw",
 "Country":"Ukraine",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"448",
@@ -4030,7 +4030,7 @@
 "FirstNameLastName":"Josephine Edley",
 "Country":"Hungary",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"449",
@@ -4039,7 +4039,7 @@
 "FirstNameLastName":"Hanna Shelton",
 "Country":"Brazil",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"450",
@@ -4048,7 +4048,7 @@
 "FirstNameLastName":"Benny Ralph",
 "Country":"Taiwan",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"451",
@@ -4057,7 +4057,7 @@
 "FirstNameLastName":"Julian Owens",
 "Country":"Kosovo",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"452",
@@ -4066,7 +4066,7 @@
 "FirstNameLastName":"Raquel Riley",
 "Country":"East Timor (Timor-Leste)",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"453",
@@ -4075,7 +4075,7 @@
 "FirstNameLastName":"Megan Hastings",
 "Country":"Guyana",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"454",
@@ -4084,7 +4084,7 @@
 "FirstNameLastName":"Rocco Wright",
 "Country":"China",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"455",
@@ -4093,7 +4093,7 @@
 "FirstNameLastName":"Kamila Tanner",
 "Country":"Mauritania",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"456",
@@ -4102,7 +4102,7 @@
 "FirstNameLastName":"Jasmine Murphy",
 "Country":"Denmark",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"457",
@@ -4111,7 +4111,7 @@
 "FirstNameLastName":"Camellia Gonzales",
 "Country":"Uganda",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"458",
@@ -4120,7 +4120,7 @@
 "FirstNameLastName":"Rae Neal",
 "Country":"Paraguay",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"459",
@@ -4129,7 +4129,7 @@
 "FirstNameLastName":"Alma Groves",
 "Country":"Malawi",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"460",
@@ -4138,7 +4138,7 @@
 "FirstNameLastName":"Maia Flett",
 "Country":"Tonga",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"461",
@@ -4147,7 +4147,7 @@
 "FirstNameLastName":"Oliver Yard",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"462",
@@ -4156,7 +4156,7 @@
 "FirstNameLastName":"Hayden Attwood",
 "Country":"Central African Republic",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"463",
@@ -4165,7 +4165,7 @@
 "FirstNameLastName":"Renee Cassidy",
 "Country":"Equatorial Guinea",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"464",
@@ -4174,7 +4174,7 @@
 "FirstNameLastName":"Peter Thomson",
 "Country":"Samoa",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"465",
@@ -4183,7 +4183,7 @@
 "FirstNameLastName":"Sadie Fleming",
 "Country":"Belarus",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"466",
@@ -4192,7 +4192,7 @@
 "FirstNameLastName":"Kieth Garcia",
 "Country":"Trinidad and Tobago",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"467",
@@ -4201,7 +4201,7 @@
 "FirstNameLastName":"Mike Oatway",
 "Country":"France",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"468",
@@ -4210,7 +4210,7 @@
 "FirstNameLastName":"Mark Graves",
 "Country":"Suriname",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"469",
@@ -4219,7 +4219,7 @@
 "FirstNameLastName":"Benny Furnell",
 "Country":"Denmark",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"470",
@@ -4228,7 +4228,7 @@
 "FirstNameLastName":"Mandy Locke",
 "Country":"Iceland",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"471",
@@ -4237,7 +4237,7 @@
 "FirstNameLastName":"Mark Lee",
 "Country":"Israel",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"472",
@@ -4246,7 +4246,7 @@
 "FirstNameLastName":"Maria Sherry",
 "Country":"Bhutan",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"473",
@@ -4255,7 +4255,7 @@
 "FirstNameLastName":"George Whatson",
 "Country":"Denmark",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"474",
@@ -4264,7 +4264,7 @@
 "FirstNameLastName":"Marla Squire",
 "Country":"Lithuania",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"475",
@@ -4273,7 +4273,7 @@
 "FirstNameLastName":"Danny Rowe",
 "Country":"Lithuania",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"476",
@@ -4282,7 +4282,7 @@
 "FirstNameLastName":"Barney Jobson",
 "Country":"Netherlands",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"477",
@@ -4291,7 +4291,7 @@
 "FirstNameLastName":"Eduardo Pearson",
 "Country":"Suriname",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"478",
@@ -4300,7 +4300,7 @@
 "FirstNameLastName":"Miriam Andrews",
 "Country":"Australia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"479",
@@ -4309,7 +4309,7 @@
 "FirstNameLastName":"Wendy Sloan",
 "Country":"Finland",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"480",
@@ -4318,7 +4318,7 @@
 "FirstNameLastName":"Ramon Lucas",
 "Country":"Fiji",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"481",
@@ -4327,7 +4327,7 @@
 "FirstNameLastName":"Cedrick Clarke",
 "Country":"Hungary",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"482",
@@ -4336,7 +4336,7 @@
 "FirstNameLastName":"Skylar Gardner",
 "Country":"Australia",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"483",
@@ -4345,7 +4345,7 @@
 "FirstNameLastName":"Tess Stark",
 "Country":"Ecuador",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"484",
@@ -4354,7 +4354,7 @@
 "FirstNameLastName":"Sylvia Harris",
 "Country":"Micronesia",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"485",
@@ -4363,7 +4363,7 @@
 "FirstNameLastName":"Adeline Douglas",
 "Country":"East Timor (Timor-Leste)",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"486",
@@ -4372,7 +4372,7 @@
 "FirstNameLastName":"Aisha Cartwright",
 "Country":"Peru",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"487",
@@ -4381,7 +4381,7 @@
 "FirstNameLastName":"Teagan Dunbar",
 "Country":"Portugal",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"488",
@@ -4390,7 +4390,7 @@
 "FirstNameLastName":"Natalie Wright",
 "Country":"Maldives",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"489",
@@ -4399,7 +4399,7 @@
 "FirstNameLastName":"Hayden Griffiths",
 "Country":"Cabo Verde",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"490",
@@ -4408,7 +4408,7 @@
 "FirstNameLastName":"Doug Jenkin",
 "Country":"Marshall Islands",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"491",
@@ -4417,7 +4417,7 @@
 "FirstNameLastName":"Jacqueline Russell",
 "Country":"Singapore",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"492",
@@ -4426,7 +4426,7 @@
 "FirstNameLastName":"Javier Khan",
 "Country":"Malaysia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"493",
@@ -4435,7 +4435,7 @@
 "FirstNameLastName":"Hazel Saunders",
 "Country":"Turkmenistan",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"494",
@@ -4444,7 +4444,7 @@
 "FirstNameLastName":"Mayleen Ashwell",
 "Country":"Luxembourg",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"495",
@@ -4453,7 +4453,7 @@
 "FirstNameLastName":"Bryon Edwards",
 "Country":"Finland",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"496",
@@ -4462,7 +4462,7 @@
 "FirstNameLastName":"Nina Ingram",
 "Country":"Finland",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"497",
@@ -4471,7 +4471,7 @@
 "FirstNameLastName":"Tyson Wright",
 "Country":"Palau",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"498",
@@ -4480,7 +4480,7 @@
 "FirstNameLastName":"Bridget Rodwell",
 "Country":"Morocco",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"499",
@@ -4489,7 +4489,7 @@
 "FirstNameLastName":"Logan Yates",
 "Country":"Nauru",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"500",
@@ -4498,7 +4498,7 @@
 "FirstNameLastName":"Roger Brock",
 "Country":"Belarus",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"501",
@@ -4507,7 +4507,7 @@
 "FirstNameLastName":"Carrie Harris",
 "Country":"Myanmar",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"502",
@@ -4516,7 +4516,7 @@
 "FirstNameLastName":"Penny Drew",
 "Country":"Djibouti",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"503",
@@ -4525,7 +4525,7 @@
 "FirstNameLastName":"Abdul Moss",
 "Country":"Mauritania",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"504",
@@ -4534,7 +4534,7 @@
 "FirstNameLastName":"Alan Sinclair",
 "Country":"Vatican City",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"505",
@@ -4543,7 +4543,7 @@
 "FirstNameLastName":"Phillip Woods",
 "Country":"Oman",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"506",
@@ -4552,7 +4552,7 @@
 "FirstNameLastName":"Danny Norburn",
 "Country":"Suriname",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"507",
@@ -4561,7 +4561,7 @@
 "FirstNameLastName":"Charlotte Nelson",
 "Country":"Nauru",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"508",
@@ -4570,7 +4570,7 @@
 "FirstNameLastName":"Julian Jennson",
 "Country":"Israel",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"509",
@@ -4579,7 +4579,7 @@
 "FirstNameLastName":"Tyler Nicolas",
 "Country":"Zimbabwe",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"510",
@@ -4588,7 +4588,7 @@
 "FirstNameLastName":"Macy Mason",
 "Country":"Malawi",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"511",
@@ -4597,7 +4597,7 @@
 "FirstNameLastName":"Maxwell Villiger",
 "Country":"Vietnam",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"512",
@@ -4606,7 +4606,7 @@
 "FirstNameLastName":"Oliver Ring",
 "Country":"Costa Rica",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"513",
@@ -4615,7 +4615,7 @@
 "FirstNameLastName":"Jayden Rowan",
 "Country":"Qatar",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"514",
@@ -4624,7 +4624,7 @@
 "FirstNameLastName":"Brad Wilde",
 "Country":"New Zealand",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"515",
@@ -4633,7 +4633,7 @@
 "FirstNameLastName":"Denny Parker",
 "Country":"Mali",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"516",
@@ -4642,7 +4642,7 @@
 "FirstNameLastName":"Ron Coates",
 "Country":"Mozambique",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"517",
@@ -4651,7 +4651,7 @@
 "FirstNameLastName":"Aisha Powell",
 "Country":"Kyrgyzstan",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"518",
@@ -4660,7 +4660,7 @@
 "FirstNameLastName":"Elle Farmer",
 "Country":"Netherlands",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"519",
@@ -4669,7 +4669,7 @@
 "FirstNameLastName":"Boris Dixon",
 "Country":"Malaysia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"520",
@@ -4678,7 +4678,7 @@
 "FirstNameLastName":"Maxwell Forester",
 "Country":"Grenada",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"521",
@@ -4687,7 +4687,7 @@
 "FirstNameLastName":"Skylar Richards",
 "Country":"Mauritius",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"522",
@@ -4696,7 +4696,7 @@
 "FirstNameLastName":"Jules Goodman",
 "Country":"Malawi",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"523",
@@ -4705,7 +4705,7 @@
 "FirstNameLastName":"Ramon Kelly",
 "Country":"Argentina",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"524",
@@ -4714,7 +4714,7 @@
 "FirstNameLastName":"Benny Reyes",
 "Country":"Israel",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"525",
@@ -4723,7 +4723,7 @@
 "FirstNameLastName":"Ruby Donovan",
 "Country":"Vatican City",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"526",
@@ -4732,7 +4732,7 @@
 "FirstNameLastName":"Chad Chester",
 "Country":"Cuba",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"527",
@@ -4741,7 +4741,7 @@
 "FirstNameLastName":"Liliana Scott",
 "Country":"Canada",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"528",
@@ -4750,7 +4750,7 @@
 "FirstNameLastName":"Peter Uttridge",
 "Country":"Zimbabwe",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"529",
@@ -4759,7 +4759,7 @@
 "FirstNameLastName":"Eduardo Hooper",
 "Country":"Costa Rica",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"530",
@@ -4768,7 +4768,7 @@
 "FirstNameLastName":"Gemma Townend",
 "Country":"Nigeria",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"531",
@@ -4777,7 +4777,7 @@
 "FirstNameLastName":"Jaylene Clarkson",
 "Country":"Belize",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"532",
@@ -4786,7 +4786,7 @@
 "FirstNameLastName":"Adelaide Saunders",
 "Country":"Comoros",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"533",
@@ -4795,7 +4795,7 @@
 "FirstNameLastName":"Nicole Greenwood",
 "Country":"Seychelles",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"534",
@@ -4804,7 +4804,7 @@
 "FirstNameLastName":"Joseph Ralph",
 "Country":"Cameroon",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"535",
@@ -4813,7 +4813,7 @@
 "FirstNameLastName":"Lauren Townend",
 "Country":"Mauritius",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"536",
@@ -4822,7 +4822,7 @@
 "FirstNameLastName":"Dalia Swan",
 "Country":"Saint Kitts and Nevis",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"537",
@@ -4831,7 +4831,7 @@
 "FirstNameLastName":"Ramon Andersson",
 "Country":"Saint Kitts and Nevis",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"538",
@@ -4840,7 +4840,7 @@
 "FirstNameLastName":"Brooklyn Oliver",
 "Country":"Ireland",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"539",
@@ -4849,7 +4849,7 @@
 "FirstNameLastName":"Ryan Bullock",
 "Country":"Barbados",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"540",
@@ -4858,7 +4858,7 @@
 "FirstNameLastName":"Tyson Wood",
 "Country":"Sao Tome and Principe",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"541",
@@ -4867,7 +4867,7 @@
 "FirstNameLastName":"Boris Taylor",
 "Country":"Algeria",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"542",
@@ -4876,7 +4876,7 @@
 "FirstNameLastName":"Barry Knight",
 "Country":"Somalia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"543",
@@ -4885,7 +4885,7 @@
 "FirstNameLastName":"Katelyn Robertson",
 "Country":"Iceland",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"544",
@@ -4894,7 +4894,7 @@
 "FirstNameLastName":"Elle Hilton",
 "Country":"South Africa",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"545",
@@ -4903,7 +4903,7 @@
 "FirstNameLastName":"Bree Potter",
 "Country":"Paraguay",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"546",
@@ -4912,7 +4912,7 @@
 "FirstNameLastName":"Maia Barclay",
 "Country":"Vietnam",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"547",
@@ -4921,7 +4921,7 @@
 "FirstNameLastName":"Matthew Reynolds",
 "Country":"Venezuela",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"548",
@@ -4930,7 +4930,7 @@
 "FirstNameLastName":"Alexander Wright",
 "Country":"Monaco",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"549",
@@ -4939,7 +4939,7 @@
 "FirstNameLastName":"Florence Watson",
 "Country":"Vatican City",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"550",
@@ -4948,7 +4948,7 @@
 "FirstNameLastName":"Aeris Reid",
 "Country":"Turkmenistan",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"551",
@@ -4957,7 +4957,7 @@
 "FirstNameLastName":"Sadie Douglas",
 "Country":"Korea, South",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"552",
@@ -4966,7 +4966,7 @@
 "FirstNameLastName":"Jacob Forth",
 "Country":"Jordan",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"553",
@@ -4975,7 +4975,7 @@
 "FirstNameLastName":"Denny Partridge",
 "Country":"Côte d’Ivoire",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"554",
@@ -4984,7 +4984,7 @@
 "FirstNameLastName":"Molly Knight",
 "Country":"Malaysia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"555",
@@ -4993,7 +4993,7 @@
 "FirstNameLastName":"Daniel Briggs",
 "Country":"Sao Tome and Principe",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"556",
@@ -5002,7 +5002,7 @@
 "FirstNameLastName":"Mike Utterson",
 "Country":"Azerbaijan",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"557",
@@ -5011,7 +5011,7 @@
 "FirstNameLastName":"Ivy Henderson",
 "Country":"Côte d’Ivoire",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"558",
@@ -5020,7 +5020,7 @@
 "FirstNameLastName":"Camden Drummond",
 "Country":"Italy",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"559",
@@ -5029,7 +5029,7 @@
 "FirstNameLastName":"Denis Russell",
 "Country":"Algeria",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"560",
@@ -5038,7 +5038,7 @@
 "FirstNameLastName":"Michelle Woodley",
 "Country":"Serbia",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"561",
@@ -5047,7 +5047,7 @@
 "FirstNameLastName":"Abbey Haines",
 "Country":"Finland",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"562",
@@ -5056,7 +5056,7 @@
 "FirstNameLastName":"Aurelia Dobson",
 "Country":"Ecuador",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"563",
@@ -5065,7 +5065,7 @@
 "FirstNameLastName":"Kendra Potts",
 "Country":"Algeria",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"564",
@@ -5074,7 +5074,7 @@
 "FirstNameLastName":"Alexa Greenwood",
 "Country":"Turkey",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"565",
@@ -5083,7 +5083,7 @@
 "FirstNameLastName":"Selena Pearce",
 "Country":"Dominica",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"566",
@@ -5092,7 +5092,7 @@
 "FirstNameLastName":"Hayden Radcliffe",
 "Country":"Comoros",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"567",
@@ -5101,7 +5101,7 @@
 "FirstNameLastName":"Rosalyn Ellery",
 "Country":"Ecuador",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"568",
@@ -5110,7 +5110,7 @@
 "FirstNameLastName":"Davina Ebbs",
 "Country":"Finland",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"569",
@@ -5119,7 +5119,7 @@
 "FirstNameLastName":"Owen Kennedy",
 "Country":"Bolivia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"570",
@@ -5128,7 +5128,7 @@
 "FirstNameLastName":"Mona Waterson",
 "Country":"Grenada",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"571",
@@ -5137,7 +5137,7 @@
 "FirstNameLastName":"Olivia Leigh",
 "Country":"Sierra Leone",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"572",
@@ -5146,7 +5146,7 @@
 "FirstNameLastName":"Katelyn Corbett",
 "Country":"Tonga",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"573",
@@ -5155,7 +5155,7 @@
 "FirstNameLastName":"Maxwell Morris",
 "Country":"Kazakhstan",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"574",
@@ -5164,7 +5164,7 @@
 "FirstNameLastName":"Matt Parker",
 "Country":"Bosnia and Herzegovina",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"575",
@@ -5173,7 +5173,7 @@
 "FirstNameLastName":"Brad Jacobs",
 "Country":"Cambodia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"576",
@@ -5182,7 +5182,7 @@
 "FirstNameLastName":"Moira Rees",
 "Country":"Sudan",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"577",
@@ -5191,7 +5191,7 @@
 "FirstNameLastName":"Karen Logan",
 "Country":"Guatemala",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"578",
@@ -5200,7 +5200,7 @@
 "FirstNameLastName":"Eduardo Vangness",
 "Country":"France",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"579",
@@ -5209,7 +5209,7 @@
 "FirstNameLastName":"Chris Olivier",
 "Country":"USA",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"580",
@@ -5218,7 +5218,7 @@
 "FirstNameLastName":"Catherine Mackenzie",
 "Country":"Egypt",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"581",
@@ -5227,7 +5227,7 @@
 "FirstNameLastName":"Noah Rothwell",
 "Country":"Macedonia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"582",
@@ -5236,7 +5236,7 @@
 "FirstNameLastName":"Kieth Plant",
 "Country":"Samoa",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"583",
@@ -5245,7 +5245,7 @@
 "FirstNameLastName":"Mara Warden",
 "Country":"Poland",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"584",
@@ -5254,7 +5254,7 @@
 "FirstNameLastName":"Logan Glass",
 "Country":"Dominican Republic",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"585",
@@ -5263,7 +5263,7 @@
 "FirstNameLastName":"Wade Tailor",
 "Country":"Lebanon",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"586",
@@ -5272,7 +5272,7 @@
 "FirstNameLastName":"Nate Roberts",
 "Country":"Morocco",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"587",
@@ -5281,7 +5281,7 @@
 "FirstNameLastName":"Mike Cann",
 "Country":"Lebanon",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"588",
@@ -5290,7 +5290,7 @@
 "FirstNameLastName":"Manuel Stanley",
 "Country":"Ireland",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"589",
@@ -5299,7 +5299,7 @@
 "FirstNameLastName":"Elisabeth Robertson",
 "Country":"United Kingdom",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"590",
@@ -5308,7 +5308,7 @@
 "FirstNameLastName":"Noah Eastwood",
 "Country":"Netherlands",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"591",
@@ -5317,7 +5317,7 @@
 "FirstNameLastName":"Joseph Latham",
 "Country":"Algeria",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"592",
@@ -5326,7 +5326,7 @@
 "FirstNameLastName":"Russel Pond",
 "Country":"Denmark",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"593",
@@ -5335,7 +5335,7 @@
 "FirstNameLastName":"Mike Shelton",
 "Country":"France",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"594",
@@ -5344,7 +5344,7 @@
 "FirstNameLastName":"Mason Janes",
 "Country":"Liberia",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"595",
@@ -5353,7 +5353,7 @@
 "FirstNameLastName":"Rocco Reid",
 "Country":"Congo, Republic of the",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"596",
@@ -5362,7 +5362,7 @@
 "FirstNameLastName":"Adelaide Ralph",
 "Country":"Cabo Verde",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"597",
@@ -5371,7 +5371,7 @@
 "FirstNameLastName":"Rhea Fenton",
 "Country":"Bangladesh",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"598",
@@ -5380,7 +5380,7 @@
 "FirstNameLastName":"Chris Carpenter",
 "Country":"Bhutan",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"599",
@@ -5389,7 +5389,7 @@
 "FirstNameLastName":"Tony Mcleod",
 "Country":"Lesotho",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"600",
@@ -5398,7 +5398,7 @@
 "FirstNameLastName":"Benny Kelly",
 "Country":"Kyrgyzstan",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"601",
@@ -5407,7 +5407,7 @@
 "FirstNameLastName":"Eduardo Wellington",
 "Country":"Liberia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"602",
@@ -5416,7 +5416,7 @@
 "FirstNameLastName":"Sage Dunbar",
 "Country":"Kazakhstan",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"603",
@@ -5425,7 +5425,7 @@
 "FirstNameLastName":"Denny Morris",
 "Country":"Slovakia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"604",
@@ -5434,7 +5434,7 @@
 "FirstNameLastName":"Eduardo Dyson",
 "Country":"Burkina Faso",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"605",
@@ -5443,7 +5443,7 @@
 "FirstNameLastName":"Chelsea Stevens",
 "Country":"Trinidad and Tobago",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"606",
@@ -5452,7 +5452,7 @@
 "FirstNameLastName":"Felicity Groves",
 "Country":"East Timor (Timor-Leste)",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"607",
@@ -5461,7 +5461,7 @@
 "FirstNameLastName":"Gladys Fall",
 "Country":"Vanuatu",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"608",
@@ -5470,7 +5470,7 @@
 "FirstNameLastName":"Zara Harris",
 "Country":"Gabon",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"609",
@@ -5479,7 +5479,7 @@
 "FirstNameLastName":"Cedrick Fowler",
 "Country":"Micronesia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"610",
@@ -5488,7 +5488,7 @@
 "FirstNameLastName":"Ryan Fulton",
 "Country":"Suriname",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"611",
@@ -5497,7 +5497,7 @@
 "FirstNameLastName":"Chloe Rosenbloom",
 "Country":"Luxembourg",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"612",
@@ -5506,7 +5506,7 @@
 "FirstNameLastName":"Nicholas Steer",
 "Country":"Burkina Faso",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"613",
@@ -5515,7 +5515,7 @@
 "FirstNameLastName":"Marigold Nelson",
 "Country":"Honduras",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"614",
@@ -5524,7 +5524,7 @@
 "FirstNameLastName":"Kamila Coates",
 "Country":"Macedonia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"615",
@@ -5533,7 +5533,7 @@
 "FirstNameLastName":"Javier Booth",
 "Country":"Ecuador",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"616",
@@ -5542,7 +5542,7 @@
 "FirstNameLastName":"Winnie Russell",
 "Country":"Nicaragua",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"617",
@@ -5551,7 +5551,7 @@
 "FirstNameLastName":"Denny Bryson",
 "Country":"Libya",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"618",
@@ -5560,7 +5560,7 @@
 "FirstNameLastName":"Amelia Alldridge",
 "Country":"Benin",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"619",
@@ -5569,7 +5569,7 @@
 "FirstNameLastName":"Nina Ward",
 "Country":"Kosovo",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"620",
@@ -5578,7 +5578,7 @@
 "FirstNameLastName":"Julius Payne",
 "Country":"Slovakia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"621",
@@ -5587,7 +5587,7 @@
 "FirstNameLastName":"Tom Newton",
 "Country":"Brunei",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"622",
@@ -5596,7 +5596,7 @@
 "FirstNameLastName":"Mason Wilkinson",
 "Country":"Congo",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"623",
@@ -5605,7 +5605,7 @@
 "FirstNameLastName":"Jules Rodgers",
 "Country":"Monaco",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"624",
@@ -5614,7 +5614,7 @@
 "FirstNameLastName":"Hayden Nanton",
 "Country":"Slovenia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"625",
@@ -5623,7 +5623,7 @@
 "FirstNameLastName":"Daron Rycroft",
 "Country":"Czech Republic",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"626",
@@ -5632,7 +5632,7 @@
 "FirstNameLastName":"Caleb Donnelly",
 "Country":"Trinidad and Tobago",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"627",
@@ -5641,7 +5641,7 @@
 "FirstNameLastName":"Shannon Wellington",
 "Country":"Brunei",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"628",
@@ -5650,7 +5650,7 @@
 "FirstNameLastName":"Jack Tanner",
 "Country":"Gabon",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"629",
@@ -5659,7 +5659,7 @@
 "FirstNameLastName":"Ryan Funnell",
 "Country":"Kyrgyzstan",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"630",
@@ -5668,7 +5668,7 @@
 "FirstNameLastName":"Clint Moran",
 "Country":"Tonga",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"631",
@@ -5677,7 +5677,7 @@
 "FirstNameLastName":"Sebastian Khan",
 "Country":"Japan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"632",
@@ -5686,7 +5686,7 @@
 "FirstNameLastName":"Estrella Larsen",
 "Country":"Dominican Republic",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"633",
@@ -5695,7 +5695,7 @@
 "FirstNameLastName":"Bart Graves",
 "Country":"Georgia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"634",
@@ -5704,7 +5704,7 @@
 "FirstNameLastName":"Javier Collingwood",
 "Country":"France",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"635",
@@ -5713,7 +5713,7 @@
 "FirstNameLastName":"Johnny Bentley",
 "Country":"Norway",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"636",
@@ -5722,7 +5722,7 @@
 "FirstNameLastName":"Ethan Walker",
 "Country":"Burkina Faso",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"637",
@@ -5731,7 +5731,7 @@
 "FirstNameLastName":"Percy Rogers",
 "Country":"Djibouti",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"638",
@@ -5740,7 +5740,7 @@
 "FirstNameLastName":"William Hale",
 "Country":"Monaco",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"639",
@@ -5749,7 +5749,7 @@
 "FirstNameLastName":"Deborah Vollans",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"640",
@@ -5758,7 +5758,7 @@
 "FirstNameLastName":"Goldie Larsen",
 "Country":"Bulgaria",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"641",
@@ -5767,7 +5767,7 @@
 "FirstNameLastName":"Clint Allcott",
 "Country":"USA",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"642",
@@ -5776,7 +5776,7 @@
 "FirstNameLastName":"Barney Roberts",
 "Country":"Sri Lanka",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"643",
@@ -5785,7 +5785,7 @@
 "FirstNameLastName":"Adeline Brock",
 "Country":"Brunei",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"644",
@@ -5794,7 +5794,7 @@
 "FirstNameLastName":"Phillip Wigley",
 "Country":"Iraq",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"645",
@@ -5803,7 +5803,7 @@
 "FirstNameLastName":"Gil Mcguire",
 "Country":"Nepal",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"646",
@@ -5812,7 +5812,7 @@
 "FirstNameLastName":"Harry Bright",
 "Country":"Taiwan",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"647",
@@ -5821,7 +5821,7 @@
 "FirstNameLastName":"Selena Payne",
 "Country":"Romania",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"648",
@@ -5830,7 +5830,7 @@
 "FirstNameLastName":"Bart Fenton",
 "Country":"Moldova",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"649",
@@ -5839,7 +5839,7 @@
 "FirstNameLastName":"Jackeline Ebden",
 "Country":"Bulgaria",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"650",
@@ -5848,7 +5848,7 @@
 "FirstNameLastName":"Samantha Bayliss",
 "Country":"Oman",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"651",
@@ -5857,7 +5857,7 @@
 "FirstNameLastName":"Taylor Oatway",
 "Country":"Nigeria",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"652",
@@ -5866,7 +5866,7 @@
 "FirstNameLastName":"Jocelyn Rodgers",
 "Country":"Egypt",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"653",
@@ -5875,7 +5875,7 @@
 "FirstNameLastName":"Emerald Dixon",
 "Country":"Indonesia",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"654",
@@ -5884,7 +5884,7 @@
 "FirstNameLastName":"Bart Ballard",
 "Country":"Slovenia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"655",
@@ -5893,7 +5893,7 @@
 "FirstNameLastName":"Melania Allen",
 "Country":"Belize",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"656",
@@ -5902,7 +5902,7 @@
 "FirstNameLastName":"Naomi Hepburn",
 "Country":"Zambia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"657",
@@ -5911,7 +5911,7 @@
 "FirstNameLastName":"Sarah Poulton",
 "Country":"Nicaragua",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"658",
@@ -5920,7 +5920,7 @@
 "FirstNameLastName":"Carissa Hobbs",
 "Country":"United Arab Emirates",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"659",
@@ -5929,7 +5929,7 @@
 "FirstNameLastName":"Aeris Rose",
 "Country":"Guinea-Bissau",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"660",
@@ -5938,7 +5938,7 @@
 "FirstNameLastName":"Francesca Darcy",
 "Country":"East Timor (Timor-Leste)",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"661",
@@ -5947,7 +5947,7 @@
 "FirstNameLastName":"Karla Villiger",
 "Country":"Denmark",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"662",
@@ -5956,7 +5956,7 @@
 "FirstNameLastName":"Jack Mcgregor",
 "Country":"Gabon",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"663",
@@ -5965,7 +5965,7 @@
 "FirstNameLastName":"Cadence Wright",
 "Country":"Slovenia",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"664",
@@ -5974,7 +5974,7 @@
 "FirstNameLastName":"Ronald Pearson",
 "Country":"Estonia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"665",
@@ -5983,7 +5983,7 @@
 "FirstNameLastName":"Sabina Rodgers",
 "Country":"Moldova",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"666",
@@ -5992,7 +5992,7 @@
 "FirstNameLastName":"Emmanuelle Clarkson",
 "Country":"Costa Rica",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"667",
@@ -6001,7 +6001,7 @@
 "FirstNameLastName":"Daria Redfern",
 "Country":"Jamaica",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"668",
@@ -6010,7 +6010,7 @@
 "FirstNameLastName":"Percy Tyler",
 "Country":"Uruguay",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"669",
@@ -6019,7 +6019,7 @@
 "FirstNameLastName":"Ellen Graham",
 "Country":"Mexico",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"670",
@@ -6028,7 +6028,7 @@
 "FirstNameLastName":"Gloria Brett",
 "Country":"Korea, North",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"671",
@@ -6037,7 +6037,7 @@
 "FirstNameLastName":"Marvin Mccall",
 "Country":"Dominica",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"672",
@@ -6046,7 +6046,7 @@
 "FirstNameLastName":"Vicky Dickson",
 "Country":"United Arab Emirates",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"673",
@@ -6055,7 +6055,7 @@
 "FirstNameLastName":"Vicky Long",
 "Country":"Rwanda",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"674",
@@ -6064,7 +6064,7 @@
 "FirstNameLastName":"Chad Lane",
 "Country":"Uganda",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"675",
@@ -6073,7 +6073,7 @@
 "FirstNameLastName":"Grace Stark",
 "Country":"Kuwait",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"676",
@@ -6082,7 +6082,7 @@
 "FirstNameLastName":"Nathan Woodley",
 "Country":"Hungary",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"677",
@@ -6091,7 +6091,7 @@
 "FirstNameLastName":"Danny Rowe",
 "Country":"Angola",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"678",
@@ -6100,7 +6100,7 @@
 "FirstNameLastName":"Domenic Morris",
 "Country":"Grenada",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"679",
@@ -6109,7 +6109,7 @@
 "FirstNameLastName":"Daniel Richardson",
 "Country":"Solomon Islands",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"680",
@@ -6118,7 +6118,7 @@
 "FirstNameLastName":"Caleb Marshall",
 "Country":"Zimbabwe",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"681",
@@ -6127,7 +6127,7 @@
 "FirstNameLastName":"Angela Benfield",
 "Country":"Egypt",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"682",
@@ -6136,7 +6136,7 @@
 "FirstNameLastName":"Bryon Quinton",
 "Country":"Liberia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"683",
@@ -6145,7 +6145,7 @@
 "FirstNameLastName":"Barry Turner",
 "Country":"Russia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"684",
@@ -6154,7 +6154,7 @@
 "FirstNameLastName":"Rachael Egerton",
 "Country":"Eritrea",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"685",
@@ -6163,7 +6163,7 @@
 "FirstNameLastName":"Rufus Goldsmith",
 "Country":"Kiribati",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"686",
@@ -6172,7 +6172,7 @@
 "FirstNameLastName":"Janice Swan",
 "Country":"Pakistan",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"687",
@@ -6181,7 +6181,7 @@
 "FirstNameLastName":"Olivia Carter",
 "Country":"Oman",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"688",
@@ -6190,7 +6190,7 @@
 "FirstNameLastName":"Tony Ring",
 "Country":"Yemen",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"689",
@@ -6199,7 +6199,7 @@
 "FirstNameLastName":"Elise Avery",
 "Country":"Panama",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"690",
@@ -6208,7 +6208,7 @@
 "FirstNameLastName":"Julius Moore",
 "Country":"Mongolia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"691",
@@ -6217,7 +6217,7 @@
 "FirstNameLastName":"Ruth Carson",
 "Country":"Saudi Arabia",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"692",
@@ -6226,7 +6226,7 @@
 "FirstNameLastName":"Carl Palmer",
 "Country":"Cambodia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"693",
@@ -6235,7 +6235,7 @@
 "FirstNameLastName":"Danny Clarkson",
 "Country":"Equatorial Guinea",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"694",
@@ -6244,7 +6244,7 @@
 "FirstNameLastName":"Gabriel Cartwright",
 "Country":"Chad",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"695",
@@ -6253,7 +6253,7 @@
 "FirstNameLastName":"William Warner",
 "Country":"Uzbekistan",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"696",
@@ -6262,7 +6262,7 @@
 "FirstNameLastName":"Danny Warner",
 "Country":"Italy",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"697",
@@ -6271,7 +6271,7 @@
 "FirstNameLastName":"Karen Swan",
 "Country":"Afghanistan",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"698",
@@ -6280,7 +6280,7 @@
 "FirstNameLastName":"Gwenyth Roberts",
 "Country":"Namibia",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"699",
@@ -6289,7 +6289,7 @@
 "FirstNameLastName":"Eileen Neville",
 "Country":"Austria",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"700",
@@ -6298,7 +6298,7 @@
 "FirstNameLastName":"Kirsten Bryson",
 "Country":"Nicaragua",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"701",
@@ -6307,7 +6307,7 @@
 "FirstNameLastName":"Ivy Allington",
 "Country":"Algeria",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"702",
@@ -6316,7 +6316,7 @@
 "FirstNameLastName":"Raquel Downing",
 "Country":"Palau",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"703",
@@ -6325,7 +6325,7 @@
 "FirstNameLastName":"Kieth Holmes",
 "Country":"Costa Rica",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"704",
@@ -6334,7 +6334,7 @@
 "FirstNameLastName":"Meredith Woodley",
 "Country":"Honduras",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"705",
@@ -6343,7 +6343,7 @@
 "FirstNameLastName":"Claire Rixon",
 "Country":"Zambia",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"706",
@@ -6352,7 +6352,7 @@
 "FirstNameLastName":"Carl Shea",
 "Country":"Pakistan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"707",
@@ -6361,7 +6361,7 @@
 "FirstNameLastName":"Louise Ranks",
 "Country":"Lithuania",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"708",
@@ -6370,7 +6370,7 @@
 "FirstNameLastName":"Alexander Kidd",
 "Country":"Saudi Arabia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"709",
@@ -6379,7 +6379,7 @@
 "FirstNameLastName":"Leilani Ogilvy",
 "Country":"Japan",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"710",
@@ -6388,7 +6388,7 @@
 "FirstNameLastName":"Jayden Wright",
 "Country":"Poland",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"711",
@@ -6397,7 +6397,7 @@
 "FirstNameLastName":"Mona Sinclair",
 "Country":"Brunei",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"712",
@@ -6406,7 +6406,7 @@
 "FirstNameLastName":"Tony Walton",
 "Country":"Seychelles",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"713",
@@ -6415,7 +6415,7 @@
 "FirstNameLastName":"Russel Jenkins",
 "Country":"Syria",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"714",
@@ -6424,7 +6424,7 @@
 "FirstNameLastName":"Lauren Appleton",
 "Country":"Brunei",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"715",
@@ -6433,7 +6433,7 @@
 "FirstNameLastName":"Zara Cameron",
 "Country":"Cambodia",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"716",
@@ -6442,7 +6442,7 @@
 "FirstNameLastName":"Kendra Nobbs",
 "Country":"Kenya",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"717",
@@ -6451,7 +6451,7 @@
 "FirstNameLastName":"David Mitchell",
 "Country":"Germany",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"718",
@@ -6460,7 +6460,7 @@
 "FirstNameLastName":"Ron Durrant",
 "Country":"Qatar",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"719",
@@ -6469,7 +6469,7 @@
 "FirstNameLastName":"Celina Plant",
 "Country":"Canada",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"720",
@@ -6478,7 +6478,7 @@
 "FirstNameLastName":"Oliver Power",
 "Country":"Saint Vincent and the Grenadines",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"721",
@@ -6487,7 +6487,7 @@
 "FirstNameLastName":"Hayden Quinn",
 "Country":"Paraguay",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"722",
@@ -6496,7 +6496,7 @@
 "FirstNameLastName":"Abbey Todd",
 "Country":"Barbados",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"723",
@@ -6505,7 +6505,7 @@
 "FirstNameLastName":"Erin Morris",
 "Country":"Tajikistan",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"724",
@@ -6514,7 +6514,7 @@
 "FirstNameLastName":"Elijah Blythe",
 "Country":"Cabo Verde",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"725",
@@ -6523,7 +6523,7 @@
 "FirstNameLastName":"Alma Edwards",
 "Country":"Costa Rica",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"726",
@@ -6532,7 +6532,7 @@
 "FirstNameLastName":"Barry Ramsey",
 "Country":"Jordan",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"727",
@@ -6541,7 +6541,7 @@
 "FirstNameLastName":"Britney Knott",
 "Country":"Bahrain",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"728",
@@ -6550,7 +6550,7 @@
 "FirstNameLastName":"Logan Whitehouse",
 "Country":"Barbados",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"729",
@@ -6559,7 +6559,7 @@
 "FirstNameLastName":"Chloe Dale",
 "Country":"Macedonia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"730",
@@ -6568,7 +6568,7 @@
 "FirstNameLastName":"Fred Drake",
 "Country":"Iceland",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"731",
@@ -6577,7 +6577,7 @@
 "FirstNameLastName":"Nancy Gaynor",
 "Country":"Thailand",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"732",
@@ -6586,7 +6586,7 @@
 "FirstNameLastName":"Jennifer Lane",
 "Country":"Central African Republic",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"733",
@@ -6595,7 +6595,7 @@
 "FirstNameLastName":"Chanelle Preston",
 "Country":"Mauritius",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"734",
@@ -6604,7 +6604,7 @@
 "FirstNameLastName":"Chuck Pierce",
 "Country":"Cuba",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"735",
@@ -6613,7 +6613,7 @@
 "FirstNameLastName":"Oliver Connell",
 "Country":"Macedonia",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"736",
@@ -6622,7 +6622,7 @@
 "FirstNameLastName":"Ember Morgan",
 "Country":"Fiji",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"737",
@@ -6631,7 +6631,7 @@
 "FirstNameLastName":"Luke Rycroft",
 "Country":"Denmark",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"738",
@@ -6640,7 +6640,7 @@
 "FirstNameLastName":"Tyson Duvall",
 "Country":"Latvia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"739",
@@ -6649,7 +6649,7 @@
 "FirstNameLastName":"Destiny Griffiths",
 "Country":"Guatemala",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"740",
@@ -6658,7 +6658,7 @@
 "FirstNameLastName":"Joseph Roman",
 "Country":"France",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"741",
@@ -6667,7 +6667,7 @@
 "FirstNameLastName":"Denis Chapman",
 "Country":"Moldova",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"742",
@@ -6676,7 +6676,7 @@
 "FirstNameLastName":"Enoch Weston",
 "Country":"Yemen",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"743",
@@ -6685,7 +6685,7 @@
 "FirstNameLastName":"Adalind Anderson",
 "Country":"Malawi",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"744",
@@ -6694,7 +6694,7 @@
 "FirstNameLastName":"Fred Edler",
 "Country":"Paraguay",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"745",
@@ -6703,7 +6703,7 @@
 "FirstNameLastName":"Doug Shields",
 "Country":"Jordan",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"746",
@@ -6712,7 +6712,7 @@
 "FirstNameLastName":"Chuck Adams",
 "Country":"New Zealand",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"747",
@@ -6721,7 +6721,7 @@
 "FirstNameLastName":"Lucas Fox",
 "Country":"Sweden",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"748",
@@ -6730,7 +6730,7 @@
 "FirstNameLastName":"Ema Fulton",
 "Country":"Argentina",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"749",
@@ -6739,7 +6739,7 @@
 "FirstNameLastName":"Alexa Yoman",
 "Country":"Kosovo",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"750",
@@ -6748,7 +6748,7 @@
 "FirstNameLastName":"Nate Abbot",
 "Country":"Togo",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"751",
@@ -6757,7 +6757,7 @@
 "FirstNameLastName":"Mason Curtis",
 "Country":"Cameroon",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"752",
@@ -6766,7 +6766,7 @@
 "FirstNameLastName":"Julian Bentley",
 "Country":"Syria",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"753",
@@ -6775,7 +6775,7 @@
 "FirstNameLastName":"Jack Lewis",
 "Country":"Montenegro",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"754",
@@ -6784,7 +6784,7 @@
 "FirstNameLastName":"Nancy Power",
 "Country":"San Marino",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"755",
@@ -6793,7 +6793,7 @@
 "FirstNameLastName":"Harry Farmer",
 "Country":"Czech Republic",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"756",
@@ -6802,7 +6802,7 @@
 "FirstNameLastName":"Jules Coates",
 "Country":"Cyprus",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"757",
@@ -6811,7 +6811,7 @@
 "FirstNameLastName":"Mason Quinnell",
 "Country":"The Gambia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"758",
@@ -6820,7 +6820,7 @@
 "FirstNameLastName":"Marvin Sherwood",
 "Country":"Tunisia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"759",
@@ -6829,7 +6829,7 @@
 "FirstNameLastName":"Tony Fisher",
 "Country":"Croatia",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"760",
@@ -6838,7 +6838,7 @@
 "FirstNameLastName":"Bart Gallacher",
 "Country":"Algeria",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"761",
@@ -6847,7 +6847,7 @@
 "FirstNameLastName":"Jacob Savage",
 "Country":"United Arab Emirates",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"762",
@@ -6856,7 +6856,7 @@
 "FirstNameLastName":"Alma Durrant",
 "Country":"Sweden",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"763",
@@ -6865,7 +6865,7 @@
 "FirstNameLastName":"Stacy Roberts",
 "Country":"Burundi",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"764",
@@ -6874,7 +6874,7 @@
 "FirstNameLastName":"Jocelyn Carpenter",
 "Country":"Guinea-Bissau",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"765",
@@ -6883,7 +6883,7 @@
 "FirstNameLastName":"Katelyn Blythe",
 "Country":"Botswana",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"766",
@@ -6892,7 +6892,7 @@
 "FirstNameLastName":"Brooklyn Radcliffe",
 "Country":"Ghana",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"767",
@@ -6901,7 +6901,7 @@
 "FirstNameLastName":"Harry Preston",
 "Country":"India",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"768",
@@ -6910,7 +6910,7 @@
 "FirstNameLastName":"Johnny Fox",
 "Country":"Burkina Faso",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"769",
@@ -6919,7 +6919,7 @@
 "FirstNameLastName":"Ryan Morris",
 "Country":"Nepal",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"770",
@@ -6928,7 +6928,7 @@
 "FirstNameLastName":"Julian Giles",
 "Country":"Libya",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"771",
@@ -6937,7 +6937,7 @@
 "FirstNameLastName":"Jasmine Wilkinson",
 "Country":"Jamaica",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"772",
@@ -6946,7 +6946,7 @@
 "FirstNameLastName":"Cecilia May",
 "Country":"Ghana",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"773",
@@ -6955,7 +6955,7 @@
 "FirstNameLastName":"Alison Morrow",
 "Country":"Kenya",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"774",
@@ -6964,7 +6964,7 @@
 "FirstNameLastName":"Rae Gates",
 "Country":"United Arab Emirates",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"775",
@@ -6973,7 +6973,7 @@
 "FirstNameLastName":"Harry Dempsey",
 "Country":"Qatar",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"776",
@@ -6982,7 +6982,7 @@
 "FirstNameLastName":"Bree Adams",
 "Country":"Jordan",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"777",
@@ -6991,7 +6991,7 @@
 "FirstNameLastName":"Eve Marshall",
 "Country":"Peru",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"778",
@@ -7000,7 +7000,7 @@
 "FirstNameLastName":"Cynthia Armstrong",
 "Country":"Tanzania",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"779",
@@ -7009,7 +7009,7 @@
 "FirstNameLastName":"Gina Rowlands",
 "Country":"Oman",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"780",
@@ -7018,7 +7018,7 @@
 "FirstNameLastName":"Eden Wilkinson",
 "Country":"Sierra Leone",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"781",
@@ -7027,7 +7027,7 @@
 "FirstNameLastName":"Daniel Rogers",
 "Country":"Monaco",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"782",
@@ -7036,7 +7036,7 @@
 "FirstNameLastName":"Nicholas Purvis",
 "Country":"Indonesia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"783",
@@ -7045,7 +7045,7 @@
 "FirstNameLastName":"Brad Seymour",
 "Country":"Suriname",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"784",
@@ -7054,7 +7054,7 @@
 "FirstNameLastName":"Hannah Porter",
 "Country":"Seychelles",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"785",
@@ -7063,7 +7063,7 @@
 "FirstNameLastName":"Michael Clarkson",
 "Country":"Tajikistan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"786",
@@ -7072,7 +7072,7 @@
 "FirstNameLastName":"Matthew Mcgee",
 "Country":"Hungary",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"787",
@@ -7081,7 +7081,7 @@
 "FirstNameLastName":"Harmony Plant",
 "Country":"Netherlands",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"788",
@@ -7090,7 +7090,7 @@
 "FirstNameLastName":"Maria Gregory",
 "Country":"Mexico",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"789",
@@ -7099,7 +7099,7 @@
 "FirstNameLastName":"Liv Drummond",
 "Country":"Papua New Guinea",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"790",
@@ -7108,7 +7108,7 @@
 "FirstNameLastName":"Kurt Hastings",
 "Country":"Hungary",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"791",
@@ -7117,7 +7117,7 @@
 "FirstNameLastName":"Paige Miller",
 "Country":"Libya",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"792",
@@ -7126,7 +7126,7 @@
 "FirstNameLastName":"Janelle Pearson",
 "Country":"Ethiopia",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"793",
@@ -7135,7 +7135,7 @@
 "FirstNameLastName":"Blake Watson",
 "Country":"Guinea",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"794",
@@ -7144,7 +7144,7 @@
 "FirstNameLastName":"Paige Miller",
 "Country":"Guyana",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"795",
@@ -7153,7 +7153,7 @@
 "FirstNameLastName":"Joseph Janes",
 "Country":"Norway",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"796",
@@ -7162,7 +7162,7 @@
 "FirstNameLastName":"Elisabeth Santos",
 "Country":"Burkina Faso",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"797",
@@ -7171,7 +7171,7 @@
 "FirstNameLastName":"Erick Spencer",
 "Country":"Bolivia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"798",
@@ -7180,7 +7180,7 @@
 "FirstNameLastName":"Eduardo Varley",
 "Country":"Argentina",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"799",
@@ -7189,7 +7189,7 @@
 "FirstNameLastName":"George Butler",
 "Country":"Finland",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"800",
@@ -7198,7 +7198,7 @@
 "FirstNameLastName":"Roger Vinton",
 "Country":"Cabo Verde",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"801",
@@ -7207,7 +7207,7 @@
 "FirstNameLastName":"Sabrina Harris",
 "Country":"Tonga",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"802",
@@ -7216,7 +7216,7 @@
 "FirstNameLastName":"Elise Robertson",
 "Country":"Cameroon",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"803",
@@ -7225,7 +7225,7 @@
 "FirstNameLastName":"Crystal Poulton",
 "Country":"Bhutan",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"804",
@@ -7234,7 +7234,7 @@
 "FirstNameLastName":"Mayleen Griffiths",
 "Country":"Armenia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"805",
@@ -7243,7 +7243,7 @@
 "FirstNameLastName":"Bob Morris",
 "Country":"Philippines",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"806",
@@ -7252,7 +7252,7 @@
 "FirstNameLastName":"Kieth Varndell",
 "Country":"Liberia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"807",
@@ -7261,7 +7261,7 @@
 "FirstNameLastName":"Alexia Quinton",
 "Country":"Marshall Islands",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"808",
@@ -7270,7 +7270,7 @@
 "FirstNameLastName":"Marvin Cox",
 "Country":"Australia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"809",
@@ -7279,7 +7279,7 @@
 "FirstNameLastName":"Hazel Wheeler",
 "Country":"Senegal",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"810",
@@ -7288,7 +7288,7 @@
 "FirstNameLastName":"Enoch Thorne",
 "Country":"Hungary",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"811",
@@ -7297,7 +7297,7 @@
 "FirstNameLastName":"Logan Gordon",
 "Country":"Mali",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"812",
@@ -7306,7 +7306,7 @@
 "FirstNameLastName":"Alexander Booth",
 "Country":"Poland",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"813",
@@ -7315,7 +7315,7 @@
 "FirstNameLastName":"Miley Brock",
 "Country":"Ecuador",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"814",
@@ -7324,7 +7324,7 @@
 "FirstNameLastName":"Winnie Jennson",
 "Country":"Iraq",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"815",
@@ -7333,7 +7333,7 @@
 "FirstNameLastName":"Percy Marshall",
 "Country":"Saudi Arabia",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"816",
@@ -7342,7 +7342,7 @@
 "FirstNameLastName":"Matthew Gray",
 "Country":"Kosovo",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"817",
@@ -7351,7 +7351,7 @@
 "FirstNameLastName":"Emmanuelle Wilton",
 "Country":"Korea, South",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"818",
@@ -7360,7 +7360,7 @@
 "FirstNameLastName":"Audrey Foxley",
 "Country":"Madagascar",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"819",
@@ -7369,7 +7369,7 @@
 "FirstNameLastName":"Danny Morris",
 "Country":"Kazakhstan",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"820",
@@ -7378,7 +7378,7 @@
 "FirstNameLastName":"Michelle Stuart",
 "Country":"Mauritius",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"821",
@@ -7387,7 +7387,7 @@
 "FirstNameLastName":"Gil Lane",
 "Country":"Korea, South",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"822",
@@ -7396,7 +7396,7 @@
 "FirstNameLastName":"Alan Connell",
 "Country":"Sierra Leone",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"823",
@@ -7405,7 +7405,7 @@
 "FirstNameLastName":"Johnathan Knight",
 "Country":"Azerbaijan",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"824",
@@ -7414,7 +7414,7 @@
 "FirstNameLastName":"Rosalyn Allcott",
 "Country":"Botswana",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"825",
@@ -7423,7 +7423,7 @@
 "FirstNameLastName":"Moira Bishop",
 "Country":"Sao Tome and Principe",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"826",
@@ -7432,7 +7432,7 @@
 "FirstNameLastName":"Kieth Young",
 "Country":"Equatorial Guinea",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"827",
@@ -7441,7 +7441,7 @@
 "FirstNameLastName":"Elise Hill",
 "Country":"Namibia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"828",
@@ -7450,7 +7450,7 @@
 "FirstNameLastName":"Tom Furnell",
 "Country":"Mauritius",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"829",
@@ -7459,7 +7459,7 @@
 "FirstNameLastName":"Barry Griffiths",
 "Country":"Kyrgyzstan",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"830",
@@ -7468,7 +7468,7 @@
 "FirstNameLastName":"Jayden Dunbar",
 "Country":"Sudan",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"831",
@@ -7477,7 +7477,7 @@
 "FirstNameLastName":"Owen Parr",
 "Country":"Belize",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"832",
@@ -7486,7 +7486,7 @@
 "FirstNameLastName":"Nicholas Salt",
 "Country":"Micronesia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"833",
@@ -7495,7 +7495,7 @@
 "FirstNameLastName":"Angelica Dwyer",
 "Country":"Iraq",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"834",
@@ -7504,7 +7504,7 @@
 "FirstNameLastName":"Marina Evans",
 "Country":"Mozambique",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"835",
@@ -7513,7 +7513,7 @@
 "FirstNameLastName":"Jane Flanders",
 "Country":"Bangladesh",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"836",
@@ -7522,7 +7522,7 @@
 "FirstNameLastName":"Tiffany Jobson",
 "Country":"Sri Lanka",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"837",
@@ -7531,7 +7531,7 @@
 "FirstNameLastName":"Gabriel Mcgregor",
 "Country":"Laos",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"838",
@@ -7540,7 +7540,7 @@
 "FirstNameLastName":"Bree Parker",
 "Country":"Latvia",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"839",
@@ -7549,7 +7549,7 @@
 "FirstNameLastName":"Ronald Kirby",
 "Country":"Cyprus",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"840",
@@ -7558,7 +7558,7 @@
 "FirstNameLastName":"Penny Olson",
 "Country":"Nepal",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"841",
@@ -7567,7 +7567,7 @@
 "FirstNameLastName":"Tyler Chapman",
 "Country":"Barbados",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"842",
@@ -7576,7 +7576,7 @@
 "FirstNameLastName":"Sage Gavin",
 "Country":"Paraguay",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"843",
@@ -7585,7 +7585,7 @@
 "FirstNameLastName":"Trisha Nayler",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"844",
@@ -7594,7 +7594,7 @@
 "FirstNameLastName":"Savannah Jordan",
 "Country":"Serbia",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"845",
@@ -7603,7 +7603,7 @@
 "FirstNameLastName":"Robyn Eagle",
 "Country":"Iraq",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"846",
@@ -7612,7 +7612,7 @@
 "FirstNameLastName":"Denny Needham",
 "Country":"Dominica",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"847",
@@ -7621,7 +7621,7 @@
 "FirstNameLastName":"Maxwell Redwood",
 "Country":"Palau",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"848",
@@ -7630,7 +7630,7 @@
 "FirstNameLastName":"Michael Alldridge",
 "Country":"Namibia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"849",
@@ -7639,7 +7639,7 @@
 "FirstNameLastName":"Sarah Dixon",
 "Country":"Romania",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"850",
@@ -7648,7 +7648,7 @@
 "FirstNameLastName":"Rose Forth",
 "Country":"Greece",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"851",
@@ -7657,7 +7657,7 @@
 "FirstNameLastName":"Benjamin Wheeler",
 "Country":"Taiwan",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"852",
@@ -7666,7 +7666,7 @@
 "FirstNameLastName":"David Abbot",
 "Country":"Honduras",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"853",
@@ -7675,7 +7675,7 @@
 "FirstNameLastName":"Ethan Miller",
 "Country":"Kazakhstan",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"854",
@@ -7684,7 +7684,7 @@
 "FirstNameLastName":"Wade Reid",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"855",
@@ -7693,7 +7693,7 @@
 "FirstNameLastName":"Hope Reynolds",
 "Country":"Liberia",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"856",
@@ -7702,7 +7702,7 @@
 "FirstNameLastName":"Elise Ebbs",
 "Country":"Comoros",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"857",
@@ -7711,7 +7711,7 @@
 "FirstNameLastName":"Sarah Pitt",
 "Country":"Germany",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"858",
@@ -7720,7 +7720,7 @@
 "FirstNameLastName":"Javier Walsh",
 "Country":"Kenya",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"859",
@@ -7729,7 +7729,7 @@
 "FirstNameLastName":"Jocelyn Uttley",
 "Country":"Canada",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"860",
@@ -7738,7 +7738,7 @@
 "FirstNameLastName":"Peter Skinner",
 "Country":"Guinea",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"861",
@@ -7747,7 +7747,7 @@
 "FirstNameLastName":"Candice Raven",
 "Country":"Spain",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"862",
@@ -7756,7 +7756,7 @@
 "FirstNameLastName":"Erick Locke",
 "Country":"Palau",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"863",
@@ -7765,7 +7765,7 @@
 "FirstNameLastName":"Bethany Alexander",
 "Country":"Argentina",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"864",
@@ -7774,7 +7774,7 @@
 "FirstNameLastName":"Daron Turner",
 "Country":"Uzbekistan",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"865",
@@ -7783,7 +7783,7 @@
 "FirstNameLastName":"Madison Irving",
 "Country":"Czech Republic",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"866",
@@ -7792,7 +7792,7 @@
 "FirstNameLastName":"Mason Graham",
 "Country":"Suriname",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"867",
@@ -7801,7 +7801,7 @@
 "FirstNameLastName":"Hannah Selby",
 "Country":"San Marino",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"868",
@@ -7810,7 +7810,7 @@
 "FirstNameLastName":"Benjamin Dallas",
 "Country":"Myanmar",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"869",
@@ -7819,7 +7819,7 @@
 "FirstNameLastName":"Bob Coleman",
 "Country":"United Kingdom",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"870",
@@ -7828,7 +7828,7 @@
 "FirstNameLastName":"Rylee Clifton",
 "Country":"Albania",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"871",
@@ -7837,7 +7837,7 @@
 "FirstNameLastName":"Wade Hilton",
 "Country":"Marshall Islands",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"872",
@@ -7846,7 +7846,7 @@
 "FirstNameLastName":"Melody Vollans",
 "Country":"El Salvador",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"873",
@@ -7855,7 +7855,7 @@
 "FirstNameLastName":"Daria Parker",
 "Country":"Honduras",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"874",
@@ -7864,7 +7864,7 @@
 "FirstNameLastName":"David Attwood",
 "Country":"Cabo Verde",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"875",
@@ -7873,7 +7873,7 @@
 "FirstNameLastName":"Isabel Richardson",
 "Country":"Albania",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"876",
@@ -7882,7 +7882,7 @@
 "FirstNameLastName":"Daniel Milner",
 "Country":"Slovakia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"877",
@@ -7891,7 +7891,7 @@
 "FirstNameLastName":"Mike Hammond",
 "Country":"Saint Vincent and the Grenadines",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"878",
@@ -7900,7 +7900,7 @@
 "FirstNameLastName":"Hanna Jobson",
 "Country":"Albania",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"879",
@@ -7909,7 +7909,7 @@
 "FirstNameLastName":"Quinn Malone",
 "Country":"United Kingdom",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"880",
@@ -7918,7 +7918,7 @@
 "FirstNameLastName":"David Bristow",
 "Country":"Uruguay",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"881",
@@ -7927,7 +7927,7 @@
 "FirstNameLastName":"Iris Hancock",
 "Country":"Benin",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"882",
@@ -7936,7 +7936,7 @@
 "FirstNameLastName":"Britney Roman",
 "Country":"Bosnia and Herzegovina",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"883",
@@ -7945,7 +7945,7 @@
 "FirstNameLastName":"Naomi Gibson",
 "Country":"Switzerland",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"884",
@@ -7954,7 +7954,7 @@
 "FirstNameLastName":"Carissa Rust",
 "Country":"France",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"885",
@@ -7963,7 +7963,7 @@
 "FirstNameLastName":"Ron Booth",
 "Country":"Lesotho",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"886",
@@ -7972,7 +7972,7 @@
 "FirstNameLastName":"Mark Anderson",
 "Country":"Papua New Guinea",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"887",
@@ -7981,7 +7981,7 @@
 "FirstNameLastName":"Hailey Avery",
 "Country":"Liechtenstein",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"888",
@@ -7990,7 +7990,7 @@
 "FirstNameLastName":"Hayden Everett",
 "Country":"Montenegro",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"889",
@@ -7999,7 +7999,7 @@
 "FirstNameLastName":"Rick Robinson",
 "Country":"Brazil",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"890",
@@ -8008,7 +8008,7 @@
 "FirstNameLastName":"Denny Crawford",
 "Country":"Monaco",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"891",
@@ -8017,7 +8017,7 @@
 "FirstNameLastName":"Francesca Patel",
 "Country":"Eritrea",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"892",
@@ -8026,7 +8026,7 @@
 "FirstNameLastName":"Owen Allen",
 "Country":"Swaziland",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"893",
@@ -8035,7 +8035,7 @@
 "FirstNameLastName":"Margaret Crawford",
 "Country":"Samoa",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"894",
@@ -8044,7 +8044,7 @@
 "FirstNameLastName":"Sharon Norton",
 "Country":"Slovakia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"895",
@@ -8053,7 +8053,7 @@
 "FirstNameLastName":"Wade Jenkin",
 "Country":"Saint Lucia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"896",
@@ -8062,7 +8062,7 @@
 "FirstNameLastName":"Makena Nelson",
 "Country":"Ukraine",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"897",
@@ -8071,7 +8071,7 @@
 "FirstNameLastName":"Hazel Rixon",
 "Country":"The Bahamas",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"898",
@@ -8080,7 +8080,7 @@
 "FirstNameLastName":"Dasha Swan",
 "Country":"Botswana",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"899",
@@ -8089,7 +8089,7 @@
 "FirstNameLastName":"Remy Tait",
 "Country":"Brazil",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"900",
@@ -8098,7 +8098,7 @@
 "FirstNameLastName":"Jamie Myatt",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"901",
@@ -8107,7 +8107,7 @@
 "FirstNameLastName":"Nate Evans",
 "Country":"Saudi Arabia",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"902",
@@ -8116,7 +8116,7 @@
 "FirstNameLastName":"Chester Ballard",
 "Country":"Portugal",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"903",
@@ -8125,7 +8125,7 @@
 "FirstNameLastName":"Peter Davies",
 "Country":"Taiwan",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"904",
@@ -8134,7 +8134,7 @@
 "FirstNameLastName":"Phillip Hammond",
 "Country":"Macedonia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"905",
@@ -8143,7 +8143,7 @@
 "FirstNameLastName":"Alexia Anderson",
 "Country":"Jamaica",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"906",
@@ -8152,7 +8152,7 @@
 "FirstNameLastName":"Hope Patel",
 "Country":"India",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"907",
@@ -8161,7 +8161,7 @@
 "FirstNameLastName":"Alessia Barclay",
 "Country":"United Kingdom",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"908",
@@ -8170,7 +8170,7 @@
 "FirstNameLastName":"Christy Selby",
 "Country":"Kiribati",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"909",
@@ -8179,7 +8179,7 @@
 "FirstNameLastName":"Emma Osmond",
 "Country":"Saudi Arabia",
 "Gender":"F",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"910",
@@ -8188,7 +8188,7 @@
 "FirstNameLastName":"Kieth Noon",
 "Country":"Tunisia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"911",
@@ -8197,7 +8197,7 @@
 "FirstNameLastName":"Hayden Collins",
 "Country":"Luxembourg",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"912",
@@ -8206,7 +8206,7 @@
 "FirstNameLastName":"Tiffany Cassidy",
 "Country":"Saint Vincent and the Grenadines",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"913",
@@ -8215,7 +8215,7 @@
 "FirstNameLastName":"Katelyn Carter",
 "Country":"Mexico",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"914",
@@ -8224,7 +8224,7 @@
 "FirstNameLastName":"Monica Shelton",
 "Country":"Albania",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"915",
@@ -8233,7 +8233,7 @@
 "FirstNameLastName":"Rosemary Moore",
 "Country":"Kuwait",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"916",
@@ -8242,7 +8242,7 @@
 "FirstNameLastName":"William Dickson",
 "Country":"Romania",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"917",
@@ -8251,7 +8251,7 @@
 "FirstNameLastName":"Adalind Swift",
 "Country":"Luxembourg",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"918",
@@ -8260,7 +8260,7 @@
 "FirstNameLastName":"Jessica Hobson",
 "Country":"South Africa",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"919",
@@ -8269,7 +8269,7 @@
 "FirstNameLastName":"Selena Zaoui",
 "Country":"Indonesia",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"920",
@@ -8278,7 +8278,7 @@
 "FirstNameLastName":"Ivy Ingham",
 "Country":"Montenegro",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"921",
@@ -8287,7 +8287,7 @@
 "FirstNameLastName":"Josh Broomfield",
 "Country":"Taiwan",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"922",
@@ -8296,7 +8296,7 @@
 "FirstNameLastName":"Alexia Funnell",
 "Country":"Malta",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"923",
@@ -8305,7 +8305,7 @@
 "FirstNameLastName":"Mike Irwin",
 "Country":"Vietnam",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"924",
@@ -8314,7 +8314,7 @@
 "FirstNameLastName":"Sebastian Rogers",
 "Country":"Croatia",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"925",
@@ -8323,7 +8323,7 @@
 "FirstNameLastName":"Kassandra Wilson",
 "Country":"Serbia",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"926",
@@ -8332,7 +8332,7 @@
 "FirstNameLastName":"Phillip Plumb",
 "Country":"Saudi Arabia",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"927",
@@ -8341,7 +8341,7 @@
 "FirstNameLastName":"Harry Ingham",
 "Country":"Brazil",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"928",
@@ -8350,7 +8350,7 @@
 "FirstNameLastName":"Lily Fisher",
 "Country":"Seychelles",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"929",
@@ -8359,7 +8359,7 @@
 "FirstNameLastName":"Bob Robinson",
 "Country":"Morocco",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"930",
@@ -8368,7 +8368,7 @@
 "FirstNameLastName":"Julian Shaw",
 "Country":"Thailand",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"931",
@@ -8377,7 +8377,7 @@
 "FirstNameLastName":"Aisha Goodman",
 "Country":"Italy",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"932",
@@ -8386,7 +8386,7 @@
 "FirstNameLastName":"Chadwick Yates",
 "Country":"Argentina",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"933",
@@ -8395,7 +8395,7 @@
 "FirstNameLastName":"Matthew Whinter",
 "Country":"Sudan",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"934",
@@ -8404,7 +8404,7 @@
 "FirstNameLastName":"Francesca Styles",
 "Country":"Mongolia",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"935",
@@ -8413,7 +8413,7 @@
 "FirstNameLastName":"Joseph Jackson",
 "Country":"Iraq",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"936",
@@ -8422,7 +8422,7 @@
 "FirstNameLastName":"Tony Lee",
 "Country":"Mexico",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"937",
@@ -8431,7 +8431,7 @@
 "FirstNameLastName":"Elena Talbot",
 "Country":"Ireland",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"938",
@@ -8440,7 +8440,7 @@
 "FirstNameLastName":"Celia Flett",
 "Country":"Uganda",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"939",
@@ -8449,7 +8449,7 @@
 "FirstNameLastName":"Anabel Jones",
 "Country":"Niger",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"940",
@@ -8458,7 +8458,7 @@
 "FirstNameLastName":"Amelia Archer",
 "Country":"China",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"941",
@@ -8467,7 +8467,7 @@
 "FirstNameLastName":"Carmella Allington",
 "Country":"Slovenia",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"942",
@@ -8476,7 +8476,7 @@
 "FirstNameLastName":"Leah Wilson",
 "Country":"Bosnia and Herzegovina",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"943",
@@ -8485,7 +8485,7 @@
 "FirstNameLastName":"Taylor Cork",
 "Country":"Uzbekistan",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"944",
@@ -8494,7 +8494,7 @@
 "FirstNameLastName":"Kieth Utterson",
 "Country":"Slovenia",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"945",
@@ -8503,7 +8503,7 @@
 "FirstNameLastName":"Jayden Mann",
 "Country":"Dominican Republic",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"946",
@@ -8512,7 +8512,7 @@
 "FirstNameLastName":"Rosie Parsons",
 "Country":"Paraguay",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"947",
@@ -8521,7 +8521,7 @@
 "FirstNameLastName":"Ellen Fox",
 "Country":"Serbia",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"948",
@@ -8530,7 +8530,7 @@
 "FirstNameLastName":"Ethan Henderson",
 "Country":"Iceland",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"949",
@@ -8539,7 +8539,7 @@
 "FirstNameLastName":"Russel Michael",
 "Country":"Sierra Leone",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"950",
@@ -8548,7 +8548,7 @@
 "FirstNameLastName":"Karla Miller",
 "Country":"Antigua and Barbuda",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"951",
@@ -8557,7 +8557,7 @@
 "FirstNameLastName":"Katelyn Holt",
 "Country":"Vatican City",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"952",
@@ -8566,7 +8566,7 @@
 "FirstNameLastName":"Chester Flanders",
 "Country":"Kyrgyzstan",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"953",
@@ -8575,7 +8575,7 @@
 "FirstNameLastName":"Andrea Shea",
 "Country":"Taiwan",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"954",
@@ -8584,7 +8584,7 @@
 "FirstNameLastName":"Daphne Blackwall",
 "Country":"The Bahamas",
 "Gender":"F",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"955",
@@ -8593,7 +8593,7 @@
 "FirstNameLastName":"Liam Darcy",
 "Country":"Libya",
 "Gender":"M",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"956",
@@ -8602,7 +8602,7 @@
 "FirstNameLastName":"Hank Callan",
 "Country":"Congo, Republic of the",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"957",
@@ -8611,7 +8611,7 @@
 "FirstNameLastName":"Candice Sloan",
 "Country":"Venezuela",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"958",
@@ -8620,7 +8620,7 @@
 "FirstNameLastName":"Nicholas Wright",
 "Country":"Monaco",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"959",
@@ -8629,7 +8629,7 @@
 "FirstNameLastName":"John Rose",
 "Country":"El Salvador",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"960",
@@ -8638,7 +8638,7 @@
 "FirstNameLastName":"Roger Edler",
 "Country":"Central African Republic",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"961",
@@ -8647,7 +8647,7 @@
 "FirstNameLastName":"George Cox",
 "Country":"India",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"962",
@@ -8656,7 +8656,7 @@
 "FirstNameLastName":"Helen Taylor",
 "Country":"Algeria",
 "Gender":"F",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"963",
@@ -8665,7 +8665,7 @@
 "FirstNameLastName":"Liam Evans",
 "Country":"Slovenia",
 "Gender":"M",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"964",
@@ -8674,7 +8674,7 @@
 "FirstNameLastName":"Mya King",
 "Country":"Fiji",
 "Gender":"F",
-"Newcolumn":"Citibank"
+"CreditCard":"Citibank"
 },
 { 
 "ID":"965",
@@ -8683,7 +8683,7 @@
 "FirstNameLastName":"Aisha Attwood",
 "Country":"Portugal",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"966",
@@ -8692,7 +8692,7 @@
 "FirstNameLastName":"Mya Graham",
 "Country":"Syria",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"967",
@@ -8701,7 +8701,7 @@
 "FirstNameLastName":"Juliette Clark",
 "Country":"Kuwait",
 "Gender":"F",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"968",
@@ -8710,7 +8710,7 @@
 "FirstNameLastName":"Peyton Stanton",
 "Country":"Angola",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"969",
@@ -8719,7 +8719,7 @@
 "FirstNameLastName":"Wade Rixon",
 "Country":"Liechtenstein",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"970",
@@ -8728,7 +8728,7 @@
 "FirstNameLastName":"Phillip Cassidy",
 "Country":"Samoa",
 "Gender":"M",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"971",
@@ -8737,7 +8737,7 @@
 "FirstNameLastName":"Rick Yard",
 "Country":"Dominican Republic",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"972",
@@ -8746,7 +8746,7 @@
 "FirstNameLastName":"Mike Robertson",
 "Country":"Serbia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"973",
@@ -8755,7 +8755,7 @@
 "FirstNameLastName":"Kamila Rosenbloom",
 "Country":"Bolivia",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"974",
@@ -8764,7 +8764,7 @@
 "FirstNameLastName":"Elly Graham",
 "Country":"Nicaragua",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"975",
@@ -8773,7 +8773,7 @@
 "FirstNameLastName":"Amelia Walton",
 "Country":"Denmark",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"976",
@@ -8782,7 +8782,7 @@
 "FirstNameLastName":"Aiden Janes",
 "Country":"Andorra",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"977",
@@ -8791,7 +8791,7 @@
 "FirstNameLastName":"Bart Umney",
 "Country":"Namibia",
 "Gender":"M",
-"Newcolumn":"MasterCard"
+"CreditCard":"MasterCard"
 },
 { 
 "ID":"978",
@@ -8800,7 +8800,7 @@
 "FirstNameLastName":"Samara Stark",
 "Country":"Mauritania",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"979",
@@ -8809,7 +8809,7 @@
 "FirstNameLastName":"Bryce Nash",
 "Country":"Seychelles",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"980",
@@ -8818,7 +8818,7 @@
 "FirstNameLastName":"Gwen Bayliss",
 "Country":"Oman",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"981",
@@ -8827,7 +8827,7 @@
 "FirstNameLastName":"Leroy Stubbs",
 "Country":"Bulgaria",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"982",
@@ -8836,7 +8836,7 @@
 "FirstNameLastName":"Gabriel Allwood",
 "Country":"Côte d’Ivoire",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"983",
@@ -8845,7 +8845,7 @@
 "FirstNameLastName":"Russel Reid",
 "Country":"Venezuela",
 "Gender":"M",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"984",
@@ -8854,7 +8854,7 @@
 "FirstNameLastName":"Fred Clarkson",
 "Country":"Norway",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"985",
@@ -8863,7 +8863,7 @@
 "FirstNameLastName":"Chris Collins",
 "Country":"Argentina",
 "Gender":"M",
-"Newcolumn":"Bank of America"
+"CreditCard":"Bank of America"
 },
 { 
 "ID":"986",
@@ -8872,7 +8872,7 @@
 "FirstNameLastName":"Aiden Edler",
 "Country":"Armenia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"987",
@@ -8881,7 +8881,7 @@
 "FirstNameLastName":"Kieth Bowen",
 "Country":"Eritrea",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"988",
@@ -8890,7 +8890,7 @@
 "FirstNameLastName":"Enoch Williams",
 "Country":"Egypt",
 "Gender":"M",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"989",
@@ -8899,7 +8899,7 @@
 "FirstNameLastName":"Boris Stewart",
 "Country":"France",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"990",
@@ -8908,7 +8908,7 @@
 "FirstNameLastName":"Marjorie Williams",
 "Country":"Korea, North",
 "Gender":"F",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"991",
@@ -8917,7 +8917,7 @@
 "FirstNameLastName":"Josh Victor",
 "Country":"Australia",
 "Gender":"M",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"992",
@@ -8926,7 +8926,7 @@
 "FirstNameLastName":"Lana Snell",
 "Country":"Rwanda",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 },
 { 
 "ID":"993",
@@ -8935,7 +8935,7 @@
 "FirstNameLastName":"Josh Mcgregor",
 "Country":"Zambia",
 "Gender":"M",
-"Newcolumn":"Visa"
+"CreditCard":"Visa"
 },
 { 
 "ID":"994",
@@ -8944,7 +8944,7 @@
 "FirstNameLastName":"Denny Hammond",
 "Country":"Finland",
 "Gender":"M",
-"Newcolumn":"Wells Fargo"
+"CreditCard":"Wells Fargo"
 },
 { 
 "ID":"995",
@@ -8953,7 +8953,7 @@
 "FirstNameLastName":"Boris Shelton",
 "Country":"Togo",
 "Gender":"M",
-"Newcolumn":"Maestro"
+"CreditCard":"Maestro"
 },
 { 
 "ID":"996",
@@ -8962,7 +8962,7 @@
 "FirstNameLastName":"Tiffany Simmons",
 "Country":"Senegal",
 "Gender":"F",
-"Newcolumn":"Capital One"
+"CreditCard":"Capital One"
 },
 { 
 "ID":"997",
@@ -8971,7 +8971,7 @@
 "FirstNameLastName":"Dorothy Giles",
 "Country":"Israel",
 "Gender":"F",
-"Newcolumn":"American Express"
+"CreditCard":"American Express"
 },
 { 
 "ID":"998",
@@ -8980,7 +8980,7 @@
 "FirstNameLastName":"Kirsten Wills",
 "Country":"Dominica",
 "Gender":"F",
-"Newcolumn":"UnionPay"
+"CreditCard":"UnionPay"
 },
 { 
 "ID":"999",
@@ -8989,7 +8989,7 @@
 "FirstNameLastName":"Jackeline Evans",
 "Country":"Haiti",
 "Gender":"F",
-"Newcolumn":"Chase"
+"CreditCard":"Chase"
 },
 { 
 "ID":"1000",
@@ -8998,6 +8998,6 @@
 "FirstNameLastName":"Marla Smith",
 "Country":"Belgium",
 "Gender":"F",
-"Newcolumn":"Discover"
+"CreditCard":"Discover"
 }
 ]}
