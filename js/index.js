@@ -502,7 +502,7 @@ function clearIndexedDB() {
     
     request.onerror = function() {
         dataExist(2, true);
-        alertify.error("Clear TaffyDB is failed!");
+        alertify.error("Clear IndexedDB is failed!");
         console.log(request.error)
     };
 }
@@ -548,9 +548,9 @@ function getCacheStorage(preview = true) {
 
         // cache.put(new Request('/test/post', options), new Response('{"foo": "bar"}'))
 
-        cache.keys().then(cachedItems => {
-            console.log(cachedItems)
-        })
+        // cache.keys().then(cachedItems => {
+        //     console.log(cachedItems)
+        // })
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
         return cache.match('/latihan/ba/model/getAlbum.php').then(function(response) {
