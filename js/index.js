@@ -209,7 +209,7 @@ function setFilterDefault() {
 function getJSON() {
     $.ajax({
         type: 'GET',
-        url: "model/getAlbum.php",
+        url: "data/album.json",
         success: function(response) {
             if(response.success) {
                 window.getJSON = response;
@@ -553,7 +553,7 @@ function getCacheStorage(preview = true) {
         // })
         //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-        return cache.match('/latihan/ba/model/getAlbum.php').then(function(response) {
+        return cache.match('/ba-simple/data/album.json').then(function(response) {
             if(response) {
                 console.log(response)
                 return response.json();
@@ -578,7 +578,7 @@ function getCacheStorage(preview = true) {
 
 function setCacheStorage(data) {
     caches.open('mycache').then(function(cache) {
-        cache.addAll(['/latihan/ba/','/latihan/ba/model/getAlbum.php']).then(() => {
+        cache.addAll(['/ba-simple/','/ba-simple/data/album.json']).then(() => {
             dataExist(8, true);
             alertify.success("Set Cache Storage is success!");
         })
@@ -588,7 +588,7 @@ function setCacheStorage(data) {
 
 function clearCacheStorage() {
     caches.open('mycache').then(function(cache) {
-        cache.delete('/latihan/ba/model/getAlbum.php').then(() => {
+        cache.delete('/ba-simple/data/album.json').then(() => {
             $("#previewContainer").html("");
             dataExist(8, false);
             alertify.success("Clear Cache Storage is success!");
