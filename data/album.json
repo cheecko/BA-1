@@ -1,0 +1,125 @@
+{
+    "data": [
+        {
+            "id": "11",
+            "album": "Parachutes ",
+            "artist": "Coldplay",
+            "genre": "Alternative rock ",
+            "year": "2000",
+            "logo": "images/Parachutes.jpg"
+        },
+        {
+            "id": "4",
+            "album": "Back to Bedlam ",
+            "artist": "James Blunt",
+            "genre": "Alternative rock, Soft Rock ",
+            "year": "2004",
+            "logo": "images/BacktoBedlam.png"
+        },
+        {
+            "id": "6",
+            "album": "Evolver ",
+            "artist": "John Legend",
+            "genre": "R&B ",
+            "year": "2008",
+            "logo": "images/Evolver.jpg"
+        },
+        {
+            "id": "1",
+            "album": "+",
+            "artist": "Ed Sheeran",
+            "genre": "Folk, Indie pop ",
+            "year": "2011",
+            "logo": "images/+.png"
+        },
+        {
+            "id": "7",
+            "album": "F.A.M.E ",
+            "artist": "Chris Brown",
+            "genre": "R&B, Pop, Hiphop ",
+            "year": "2011",
+            "logo": "images/F.A.M.E.png"
+        },
+        {
+            "id": "10",
+            "album": "Lovestrong",
+            "artist": "Christina Perri",
+            "genre": "Pop",
+            "year": "2011",
+            "logo": "images/Lovestrong.png"
+        },
+        {
+            "id": "5",
+            "album": "Begin ",
+            "artist": "David Archuleta",
+            "genre": "Pop ",
+            "year": "2012",
+            "logo": "images/Begin.jpg"
+        },
+        {
+            "id": "14",
+            "album": "Red",
+            "artist": "Taylor Swift",
+            "genre": "Pop, Country, Rock ",
+            "year": "2012",
+            "logo": "images/Red.png"
+        },
+        {
+            "id": "2",
+            "album": "Animal",
+            "artist": "Conor Maynard",
+            "genre": "Dance-pop ",
+            "year": "2013",
+            "logo": "images/Animal.jpg"
+        },
+        {
+            "id": "3",
+            "album": "Avril Lavigne ",
+            "artist": "Avril Lavigne",
+            "genre": "Rock, Pop ",
+            "year": "2013",
+            "logo": "images/AvrilLavigne.png"
+        },
+        {
+            "id": "9",
+            "album": "Ghost Stories ",
+            "artist": "Coldplay",
+            "genre": "Electronica, Pop ",
+            "year": "2014",
+            "logo": "images/GhostStories.png"
+        },
+        {
+            "id": "8",
+            "album": "For the Taking",
+            "artist": "Elenowen",
+            "genre": "Folk ",
+            "year": "2015",
+            "logo": "images/FortheTaking.jpg"
+        },
+        {
+            "id": "12",
+            "album": "Pink Memory",
+            "artist": "Apink",
+            "genre": "K-pop",
+            "year": "2015",
+            "logo": "images/PinkMemory.jpg"
+        },
+        {
+            "id": "15",
+            "album": "Whisper II ",
+            "artist": "Indie pop ",
+            "genre": "Passenger",
+            "year": "2015",
+            "logo": "images/WhispersII.jpg"
+        },
+        {
+            "id": "13",
+            "album": "Pink Revolution",
+            "artist": "Apink",
+            "genre": "K-pop",
+            "year": "2016",
+            "logo": "images/PinkRevolution.png"
+        }
+    ],
+    "success": true
+}
