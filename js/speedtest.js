@@ -128,6 +128,15 @@ async function doSomething(info) {
             case "remove_localForageLocalStorage":
                 await clearLocalForageLocalStorage();
                 break;
+            case "set_localForageLocalStorage_setItems":
+                await setLocalForageLocalStorage(info.docs, "setItems");
+                break;
+            case "get_localForageLocalStorage_setItems":
+                data = await getLocalForageLocalStorage(info.limit, "setItems");
+                break;
+            case "remove_localForageLocalStorage_setItems":
+                await clearLocalForageLocalStorage("setItems");
+                break;
             case "set_localForageIDB_bulk":
                 await setLocalForageIDB(info.docs, "bulk");
                 break;
@@ -145,6 +154,15 @@ async function doSomething(info) {
                 break;
             case "remove_localForageIDB":
                 await clearLocalForageIDB();
+                break;
+            case "set_localForageIDB_setItems":
+                await setLocalForageIDB(info.docs, "setItems");
+                break;
+            case "get_localForageIDB_setItems":
+                data = await getLocalForageIDB(info.limit, "setItems");
+                break;
+            case "remove_localForageIDB_setItems":
+                await clearLocalForageIDB("setItems");
                 break;
             case "5_set":
                 setPouchDB(data);
@@ -394,10 +412,22 @@ function setLocalForageLocalStorage(docs, method = "nomal") {
             }).catch(function(error) {
                 reject(error)
             });
+        }else if(method == "setItems"){
+            var data = {};
+            docs.objects.forEach(function(e, index) {
+                data["localForage_speedtest_docs_"+index] = e
+            })
+            localForageLocalStorage.setItems(data).then(function() {
+                resolve()
+            }).catch(function(error) {
+                reject(error)
+            });
         }else{
             docs.objects.forEach(function(doc, index) {
                 localForageLocalStorage.setItem("localForage_speedtest_docs_"+index, doc).then(function() {
-                    resolve()
+                    if(docs.objects.length - 1 == index) {
+                        resolve()
+                    }
                 }).catch(function(error) {
                     reject(error)
                 });;
@@ -419,6 +449,20 @@ function getLocalForageLocalStorage(limit, method = "nomal") {
             }).catch(function(error) {
                 reject(error);
             });
+        }else if(method == "setItems"){
+            localForageLocalStorage.keys().then(function(keys) {
+                if(keys.length != 0) {
+                    keys = limit == "No Limit" ? keys : keys.slice(0, limit);
+                }else{
+                    reject("No Data is found!")
+                }
+                localForageLocalStorage.getItems(keys).then(function(response) {
+                    response = Object.values(response)
+                    resolve({objects: response})
+                }).catch(function(error) {
+                    reject(error)
+                });;
+            })
         }else{
             var data = [];
             localForageLocalStorage.iterate(function(value, key, iterationNumber) {
@@ -440,6 +484,14 @@ function clearLocalForageLocalStorage(method = "nomal") {
             }).catch(function(error) {
                 reject(error)
             });
+        }else if(method == "setItems"){
+            localForageLocalStorage.keys().then(function(keys) {
+                localForageLocalStorage.removeItems(keys).then(function(response) {
+                    resolve()
+                }).catch(function(error) {
+                    reject(error)
+                });;
+            })
         }else{
             localForageLocalStorage.iterate(function(value, key, iterationNumber) {
                 key == "localForage_speedtest" ? false : localForageLocalStorage.removeItem(key);
@@ -460,10 +512,22 @@ function setLocalForageIDB(docs, method = "nomal") {
             }).catch(function(error) {
                 reject(error)
             });
+        }else if(method == "setItems"){
+            var data = {};
+            docs.objects.forEach(function(e, index) {
+                data["localForage_speedtest_docs_"+index] = e
+            })
+            localForage.setItems(data).then(function() {
+                resolve()
+            }).catch(function(error) {
+                reject(error)
+            });
         }else{
             docs.objects.forEach(function(doc, index) {
                 localForage.setItem("localForage_speedtest_docs_"+index, doc).then(function() {
-                    resolve()
+                    if(docs.objects.length - 1 == index) {
+                        resolve()
+                    }
                 }).catch(function(error) {
                     reject(error)
                 });;
@@ -485,6 +549,20 @@ function getLocalForageIDB(limit, method = "nomal") {
             }).catch(function(error) {
                 reject(error);
             });
+        }else if(method == "setItems"){
+            localForage.keys().then(function(keys) {
+                if(keys.length != 0) {
+                    keys = limit == "No Limit" ? keys : keys.slice(0, limit);
+                }else{
+                    reject("No Data is found!")
+                }
+                localForage.getItems(keys).then(function(response) {
+                    response = Object.values(response)
+                    resolve({objects: response})
+                }).catch(function(error) {
+                    reject(error)
+                });;
+            })
         }else{
             var data = [];
             localForage.iterate(function(value, key, iterationNumber) {
@@ -506,6 +584,14 @@ function clearLocalForageIDB(method = "nomal") {
             }).catch(function(error) {
                 reject(error)
             });
+        }else if(method == "setItems"){
+            localForage.keys().then(function(keys) {
+                localForage.removeItems(keys).then(function(response) {
+                    resolve()
+                }).catch(function(error) {
+                    reject(error)
+                });;
+            })
         }else{
             localForage.iterate(function(value, key, iterationNumber) {
                 key == "localForage_speedtest" ? false : localForage.removeItem(key);

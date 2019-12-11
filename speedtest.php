@@ -13,6 +13,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="css/speedtest.css" />
     <script src="js/localforage.js"></script>
+    <script src="js/localforage-setItems.js"></script>
+    <script src="js/localforage-getItems.js"></script>
+    <script src="js/localforage-removeItems.js"></script>
     <script src="js/pouchdb-7.1.1.min.js"></script>
     <script src="js/pouchdb.find.js"></script>
     <script src="js/taffy.js"></script>
@@ -93,12 +96,20 @@
                         <label class="form-check-label" for="localForageLocalStorage"></span>localForage (localStorage)</label>
                     </div>
                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="database" id="localForageLocalStorage_setItems" value="localForageLocalStorage_setItems">
+                        <label class="form-check-label" for="localForageLocalStorage_setItems"></span>localForage (localStorage) setItems()</label>
+                    </div>
+                    <div class="form-check">
                         <input class="form-check-input" type="radio" name="database" id="localForageIDB_bulk" value="localForageIDB_bulk">
                         <label class="form-check-label" for="localForageIDB_bulk"></span>localForage (IndexedDB) Bulk</label>
                     </div>
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="database" id="localForageIDB" value="localForageIDB">
                         <label class="form-check-label" for="localForageIDB"></span>localForage (IndexedDB)</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="database" id="localForageIDB_setItems" value="localForageIDB_setItems">
+                        <label class="form-check-label" for="localForageIDB_setItems"></span>localForage (IndexedDB) setItems()</label>
                     </div>
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="database" id="pouch" value="pouch">
