@@ -140,22 +140,6 @@
                         <button type="button" class="btn btn-danger" id="remove">Remove</button>
                         <button type="button" class="btn btn-dark" id="get">Get</button>
                     </div>
-                    <div class="input-group col-5">
-                        <div class="input-group-prepend">
-                            <select class="custom-select btn col-8" id="artistContainer"></select>
-                            <select class="custom-select btn col" id="yearOperator">
-                                <option value="=" selected>=</option>
-                                <option value=">">></option>
-                                <option value="<"><</option>
-                                <option value=">=">>=</option>
-                                <option value="<="><=</option>
-                            </select>
-                        </div>
-                        <input type="text" class="form-control" placeholder="Year" id="inputYear">
-                        <div class="input-group-append">
-                            <button class="btn btn-outline-secondary" type="submit" id="filterButton">Filter</button>
-                        </div>
-                    </div>
                     <div class="col-auto">
                         <select class="custom-select btn col" id="limit">
                             <option value="No Limit" selected>No Limit</option>
@@ -164,6 +148,16 @@
                             <option value="100">100</option>
                         </select>
                     </div>
+
+                    <div class="input-group col">
+                        <div class="input-group-prepend">
+                            <select class="custom-select btn col-2" id="selectGender"></select>
+                            <select class="custom-select btn col" id="selectCreditCard"></select>
+                            <select class="custom-select btn col" id="selectJobTitle"></select>
+                            <select class="custom-select btn col" id="selectCountry"></select>
+                        </div>
+                    </div>
+
                 </div>
             </form>
         </section>

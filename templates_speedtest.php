@@ -6,6 +6,13 @@
     </div>
 </script>
 
+<script id="select-template" type="text/x-template">
+    <option value="">{{:search}}</option>
+    {{for data}}
+        <option value="{{:option}}">{{:option}}</option>
+    {{/for}}
+</script>
+
 <script id="table-big-json-template" type="text/x-template">
     <h3>{{:label}}</h3>
     <table class="table table-hover">

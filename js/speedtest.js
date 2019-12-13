@@ -19,7 +19,7 @@ if (typeof localforage !== 'undefined') {
 var pouch = new PouchDB('pouch_speedtest');
 
 var taffy = TAFFY();
-taffy.store("taffy_speedtest");
+// taffy.store("taffy_speedtest");
 
 var dexie = new Dexie("dexie_speedtest");
 dexie.version(1).stores({
@@ -247,7 +247,34 @@ function loadAllJSON() {
     var numDocs = ["1000_big", "10000_big", "100000_big", "1000_small", "10000_small", "100000_small"]
     numDocs.forEach(async function(e) {
         json["docs_" + e] = await getJSON(e);
+        e == "1000_big" ? setSelectOptions(json["docs_" + e]) : false;
     })
+}
+
+function setSelectOptions(docs) {
+    var set = ["CreditCard", "Country", "Gender", "JobTitle"];
+    set.forEach(function(e) {
+        var data = getOptionsData(docs, e);
+        template("select", data, "select" + e);
+    })
+}
+
+function getOptionsData(docs, search) {
+    var data = docs.objects.filter(function(value, index, array) {
+        return array.findIndex(function(e) {
+            return e[search] === value[search]
+        }) === index;
+    }).map(function(e) {
+        return {option: e[search]}
+    }).sort(function(a, b){
+        if(a.option < b.option) { return -1; }
+        if(a.option > b.option) { return 1; }
+        return 0;
+    })
+    return {
+        search: search,
+        data: data
+    }
 }
 
 function getJSON(numDocs) {
