@@ -814,6 +814,7 @@ function setTaffy(docs) {
 function getTaffy(limit) {
     limit = limit == "No Limit" ? 0 : limit;
     var data = taffy().limit(limit).get()
+    if(data.length == 0) throw "No Data is found!"
     return {objects: data}
 }
 
