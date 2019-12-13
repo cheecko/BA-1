@@ -85,6 +85,22 @@
                         <input class="form-check-input" type="radio" name="database" id="cache" value="cache">
                         <label class="form-check-label" for="cache"></span>Cache Storage</label>
                     </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="database" id="pouch" value="pouch">
+                        <label class="form-check-label" for="pouch"></span>PouchDB Single</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="database" id="pouch_bulk" value="pouch_bulk">
+                        <label class="form-check-label" for="pouch_bulk"></span>PouchDB Bulk</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="database" id="dexie" value="dexie">
+                        <label class="form-check-label" for="dexie"></span>Dexie Single</label>
+                    </div>
+                    <div class="form-check">
+                        <input class="form-check-input" type="radio" name="database" id="dexie_bulk" value="dexie_bulk">
+                        <label class="form-check-label" for="dexie_bulk"></span>Dexie Bulk</label>
+                    </div>
                 </div>
                 <div class="col-4">
                     <div class="form-check">
@@ -112,16 +128,8 @@
                         <label class="form-check-label" for="localForageIDB_setItems"></span>localForage (IndexedDB) setItems()</label>
                     </div>
                     <div class="form-check">
-                        <input class="form-check-input" type="radio" name="database" id="pouch" value="pouch">
-                        <label class="form-check-label" for="pouch"></span>PouchDB</label>
-                    </div>
-                    <div class="form-check">
                         <input class="form-check-input" type="radio" name="database" id="taffy" value="taffy">
                         <label class="form-check-label" for="taffy"></span>TaffyDB</label>
-                    </div>
-                    <div class="form-check">
-                        <input class="form-check-input" type="radio" name="database" id="dexie" value="dexie">
-                        <label class="form-check-label" for="dexie"></span>Dexie</label>
                     </div>
                 </div>
             </div>

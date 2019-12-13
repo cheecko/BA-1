@@ -16,14 +16,14 @@ if (typeof localforage !== 'undefined') {
     });
 }
 
-var pouchdb = new PouchDB('pouch_speedtest');
+var pouch = new PouchDB('pouch_speedtest');
 
-var taffydb = TAFFY();
-taffydb.store("taffy_speedtest");
+var taffy = TAFFY();
+taffy.store("taffy_speedtest");
 
 var dexie = new Dexie("dexie_speedtest");
 dexie.version(1).stores({
-    albums: "id",
+    docs: "ID",
 });
 
 const cacheAvailable = 'caches' in self;
@@ -37,6 +37,7 @@ $(document).ready(function() {
         var info = getInfo();
         info.command = command;
 
+        disabledButtonTrue()
         template("display", info, "display");
         doSomething(info);
     })
@@ -46,10 +47,19 @@ $(document).ready(function() {
         var info = getInfo();
         info.command = command;
 
+        disabledButtonTrue()
         template("display", info, "display");
         doSomething(info);
     })
 })
+
+function disabledButtonTrue() {
+    $("#set, #get, #remove").prop("disabled", true)
+}
+
+function disabledButtonFalse() {
+    $("#set, #get, #remove").prop("disabled", false)
+}
 
 function getInfo() {
     var db = $("#database input[name=database]:checked").val();
@@ -164,24 +174,51 @@ async function doSomething(info) {
             case "remove_localForageIDB_setItems":
                 await clearLocalForageIDB("setItems");
                 break;
-            case "5_set":
-                setPouchDB(data);
-            case "5_get":
-                getPouchDB();
-            case "5_remove":
-                clearPouchDB(); 
-            case "6_set":
-                setTaffyDB(data);
-            case "6_get":
-                getTaffyDB();
-            case "6_remove":
-                clearTaffyDB(); 
-            case "7_set":
-                setDexie(data);
-            case "7_get":
-                getDexie();
-            case "7_remove":
-                clearDexie();
+            case "set_pouch":
+                await setPouch(info.docs);
+                break;
+            case "get_pouch":
+                data = await getPouch(info.limit, "normal", info.numDocs);
+                break;
+            case "remove_pouch":
+                await clearPouch("normal", info.numDocs);
+                break;
+            case "set_pouch_bulk":
+                await setPouch(info.docs, "bulk");
+                break;
+            case "get_pouch_bulk":
+                data = await getPouch(info.limit, "bulk");
+                break;
+            case "remove_pouch_bulk":
+                await clearPouch("bulk");
+                break;
+            case "set_dexie":
+                await setDexie(info.docs);
+                break;
+            case "get_dexie":
+                data = await getDexie(info.limit, "normal", info.numDocs);
+                break;
+            case "remove_dexie":
+                await clearDexie("normal");
+                break;
+            case "set_dexie_bulk":
+                await setDexie(info.docs, "bulk");
+                break;
+            case "get_dexie_bulk":
+                data = await getDexie(info.limit, "bulk", info.numDocs);
+                break;
+            case "remove_dexie_bulk":
+                await clearDexie("bulk");
+                break;
+            case "set_taffy":
+                setTaffy(info.docs);
+                break;
+            case "get_taffy":
+                data = getTaffy(info.limit);
+                break;
+            case "remove_taffy":
+                clearTaffy();
+                break;
         }
     }catch(error) {
         console.log(error);
@@ -189,7 +226,7 @@ async function doSomething(info) {
     }
     info.timeSpent = performance.now() - timeStart;
     template("display", info, "display");
-
+    disabledButtonFalse()
     console.log(data)
     if(data && info.command == "get" && info.limit != "No Limit") {
         data.label = info.label;
@@ -602,4 +639,184 @@ function clearLocalForageIDB(method = "nomal") {
             });
         }
     })
+}
+
+function setPouch(docs, method = "nomal") {
+    return new Promise(function(resolve, reject) {
+        docs.objects.forEach(function(e) {
+            e._id = "pouch_speedtest_docs_" + e.ID
+        })
+        if(method == "bulk") {
+            pouch.bulkDocs(docs.objects).then(function() {
+                resolve()
+            }).catch(function(error) {
+                reject(error)
+            })
+        }else{
+            docs.objects.forEach(function(doc, index) {
+                pouch.put(doc).then(function() {
+                    if(docs.objects.length - 1 == index) {
+                        resolve()
+                    }
+                }).catch(function(error) {
+                    reject(error)
+                });;
+            })
+        }
+    })
+}
+
+function getPouch(limit, method = "nomal", numDocs) {
+    return new Promise(function(resolve, reject) {
+        if(method == "bulk") {
+            var options = {include_docs: true}
+            limit == "No Limit" ? false : options.limit = parseInt(limit);
+            pouch.allDocs(options).then(function(response) {
+                if(response.total_rows != 0) {
+                    var data = response.rows.map(function(e) {
+                        return e.doc;
+                    })
+                    resolve({objects:data})
+                }else{
+                    reject("No Data is found!")
+                }
+            }).catch(function (error) {
+                reject(error)
+            });
+        }else{
+            limit = limit == "No Limit" ? numDocs : limit;
+
+            Promise.resolve().then(async function() {
+                var data = []
+                for(var i = 1; i <= limit; i++) {
+                    var doc = await pouch.get("pouch_speedtest_docs_"+i)
+                    data.push(doc)
+                }
+                console.log(data)
+                resolve({objects:data})
+            }).catch(function(error) {
+                error.name == "not_found" ?  reject("No Data is found!") : reject(error)
+            })
+        }
+    })
+}
+
+function clearPouch(method = "nomal", numDocs) {
+    return new Promise(function(resolve, reject) {
+        if(method == "bulk") {
+            pouch.destroy().then(function () {
+                pouch = new PouchDB('pouch_speedtest');
+                resolve()
+            }).catch(function (error) {
+                reject(error)
+            });
+        }else{
+            for(var i = 1; i <= numDocs; i++) {
+                pouch.get("pouch_speedtest_docs_"+i).then(function(doc) {
+                    return pouch.remove(doc);
+                }).then(function(result) {
+                    resolve()
+                }).catch(function (error) {
+                    error.name == "not_found" ?  reject("") : reject(error)
+                });
+            }  
+        }
+    })
+}
+
+function setDexie(docs, method = "nomal") {
+    return new Promise(function(resolve, reject) {
+        docs.objects.forEach(function(e) {
+            e._id = "pouch_speedtest_docs_" + e.ID
+        })
+        if(method == "bulk") {
+            dexie.docs.bulkPut(docs.objects).then(function() {
+                resolve()
+            }).catch(function(error) {
+                reject(error)
+            })
+        }else{
+            docs.objects.forEach(function(doc, index) {
+                dexie.docs.put(doc).then(function() {
+                    if(docs.objects.length - 1 == index) {
+                        resolve()
+                    }
+                }).catch(function(error) {
+                    reject(error)
+                });;
+            })
+        }
+    })
+}
+
+function getDexie(limit, method = "nomal", numDocs) {
+    return new Promise(function(resolve, reject) {
+        if(method == "bulk") {
+            limit = limit == "No Limit" ? numDocs : limit;
+            dexie.docs.limit(limit).toArray().then(function(response) {
+                if(response.length != 0) {
+                    resolve({objects:response})
+                }else{
+                    reject("No Data is found!")
+                }
+            }).catch(function (error) {
+                reject(error)
+            });
+        }else{
+            limit = limit == "No Limit" ? numDocs : limit;
+            Promise.resolve().then(async function() {
+                var data = []
+                await dexie.docs.limit(limit).eachPrimaryKey(async function(key) {
+                    var doc = await dexie.docs.get(key)
+                    data.push(doc)
+                })
+                data.length != 0 ? resolve({objects:data}) : reject("No Data is found!")  
+            }).catch(function(error) {
+                reject(error)
+            })
+        }
+    })
+}
+
+function clearDexie(method = "nomal") {
+    return new Promise(function(resolve, reject) {
+        if(method == "bulk") {
+            dexie.docs.toCollection().keys().then(function(keys) {
+                return dexie.docs.bulkDelete(keys)
+            }).then(function() {
+                resolve()
+            }).catch(function(error) {
+                reject(error)
+            })
+        }else{
+            dexie.transaction('rw', dexie.docs, async () => {
+                var count = await dexie.docs.count();
+                if(count == 0) {
+                    resolve()
+                }else{
+                    dexie.docs.each(function(doc) {
+                        dexie.docs.delete(doc.ID).then(function() {
+                            resolve()
+                        }).catch(function(error) {
+                            reject(error)
+                        })
+                    })
+                }
+            });           
+        }
+    })
+}
+
+function setTaffy(docs) {
+    taffy.insert(docs.objects)
+}
+
+function getTaffy(limit) {
+    limit = limit == "No Limit" ? 0 : limit;
+    var data = taffy().limit(limit).get()
+    return {objects: data}
+}
+
+function clearTaffy() {
+    taffy().remove();
 }
