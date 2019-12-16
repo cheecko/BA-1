@@ -102,7 +102,7 @@
                         <label class="form-check-label" for="dexie_bulk"></span>Dexie Bulk</label>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-6">
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="database" id="localForageLocalStorage_bulk" value="localForageLocalStorage_bulk">
                         <label class="form-check-label" for="localForageLocalStorage_bulk"></span>localForage (localStorage) Bulk</label>
