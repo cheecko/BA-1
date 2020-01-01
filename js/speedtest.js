@@ -17,6 +17,12 @@ if (typeof localforage !== 'undefined') {
 }
 
 var pouch = new PouchDB('pouch_speedtest');
+createIndexPouchDB();
+// pouch.getIndexes().then(function (result) {
+//     console.log(result)
+// }).catch(function (err) {
+//     console.log(err);
+// });
 
 var taffy = TAFFY();
 // taffy.store("taffy_speedtest");
@@ -114,7 +120,7 @@ async function doSomething(info) {
                 await setIDB(info.docs);
                 break;
             case "get_idb":
-                data = await getIDB(info.limit);
+                data = await getIDB(info);
                 break;
             case "remove_idb":
                 await clearIDB();
@@ -186,7 +192,7 @@ async function doSomething(info) {
                 await setPouch(info.docs);
                 break;
             case "get_pouch":
-                data = await getPouch(info.limit, "normal", info.numDocs);
+                data = await getPouch(info, "normal");
                 break;
             case "remove_pouch":
                 await clearPouch("normal", info.numDocs);
@@ -195,7 +201,7 @@ async function doSomething(info) {
                 await setPouch(info.docs, "bulk");
                 break;
             case "get_pouch_bulk":
-                data = await getPouch(info.limit, "bulk");
+                data = await getPouch(info, "bulk");
                 break;
             case "remove_pouch_bulk":
                 await clearPouch("bulk");
@@ -301,13 +307,17 @@ function getJSON(numDocs) {
     })
 }
 
-function extraFilter(data, gender, creditCard, job, country) {
+function setFilters(gender, creditCard, job, country) {
     var filters = {}
     gender ? filters["Gender"] = gender : false;
     creditCard ? filters["CreditCard"] = creditCard : false;
     job ? filters["JobTitle"] = job : false;
     country ? filters["Country"] = country : false;
+    return filters;
+}
 
+function extraFilter(data, info) {
+    var filters = setFilters(info.gender, info.creditCard, info.job, info.country);
     data = data.filter(function(e) {
         for(var index in filters) {
             if(e[index] === undefined || e[index] != filters[index]) return false
@@ -332,7 +342,7 @@ function getLocalStorage(info, method = "normal") {
     if(method == "bulk") {
         if(localStorage.getItem("localStorage_speedtest")) {
             var data = JSON.parse(localStorage.getItem("localStorage_speedtest"));
-            data = extraFilter(data.objects, info.gender, info.creditCard, info.job, info.country);
+            data = extraFilter(data.objects, info);
             data.objects = info.limit == "No Limit" ? data.objects : data.objects.slice(0, info.limit);
             return data;
         }else{
@@ -344,7 +354,7 @@ function getLocalStorage(info, method = "normal") {
             for(var index in localStorage) {
                 index.includes("localStorage_speedtest_docs_") ? data.push(JSON.parse(localStorage.getItem(index))) : false;
             }
-            data = extraFilter(data, info.gender, info.creditCard, info.job, info.country);
+            data = extraFilter(data, info);
             data.objects = info.limit == "No Limit" ? data.objects : data.objects.slice(0, info.limit);
             return data;
         }else{
@@ -378,10 +388,11 @@ function openIDB() {
     request.onupgradeneeded = function(e) {
         var db = request.result;
         var store = db.createObjectStore(STORE_NAME, {keyPath: "ID"})
-        store.createIndex('index_gender', 'Gender');
-        store.createIndex('index_job', 'JobTitle');
-        store.createIndex('index_country', 'Country');
-        store.createIndex('index_credit_card', 'CreditCard');
+        var index = [["Gender"], ["CreditCard"], ["JobTitle"], ["Country"], ["Gender", "CreditCard"], ["Gender", "JobTitle"], ["Gender", "Country"], ["CreditCard", "JobTitle"], ["CreditCard", "Country"], ["JobTitle", "Country"], ["Gender", "CreditCard", "JobTitle"], ["Gender", "CreditCard", "Country"], ["Gender", "CreditCard", "JobTitle", "Country"]]
+        index.forEach(function(e) {
+            var indexName = e.join("_");
+            store.createIndex(indexName, e);
+        })
     }
 };
 
@@ -404,13 +415,21 @@ function setIDB(docs) {
     })
 }
 
-function getIDB(limit) {
+function getIDB(info) {
     return new Promise(function(resolve, reject) {
+        var filters = setFilters(info.gender, info.creditCard, info.job, info.country);
+        var filterKeys = Object.keys(filters).join("_");
+        var filterValues = Object.values(filters)
+
         var store = getIDBObjectStore("readonly");
-        var request = limit == "No Limit" ? store.getAll() : store.getAll(IDBKeyRange.bound("0", "9"), limit);
+        if(Object.keys(filters).length !== 0) {
+            var request = info.limit == "No Limit" ? store.index(filterKeys).getAll(filterValues) : store.index(filterKeys).getAll(filterValues, info.limit);
+        }else{
+            var request = info.limit == "No Limit" ? store.getAll() : store.getAll(IDBKeyRange.bound("0", "9"), info.limit);
+        }
 
         request.onsuccess = function() {
-            request.result.length != 0 ? resolve({objects: request.result}) : reject("No data is found!");
+            request.result.length != 0 ? resolve({command: "get", objects: request.result}) : reject("No data is found!");
         };
     })
 }
@@ -455,7 +474,7 @@ function getCache(info) {
             cache.match('/cache_speedtest/docs/').then(function(response) {
                 return response.json();
             }).then(function(data) {
-                data = extraFilter(data.objects, info.gender, info.creditCard, info.job, info.country);
+                data = extraFilter(data.objects, info);
                 data.objects = info.limit == "No Limit" ? data.objects : data.objects.slice(0, info.limit);
                 resolve(data)
             }).catch(function() {
@@ -515,7 +534,7 @@ function getLocalForageLocalStorage(info, method = "nomal") {
         if(method == "bulk") {
             localForageLocalStorage.getItem("localForage_speedtest").then(function(response) {
                 if(response) {
-                    response = extraFilter(response.objects, info.gender, info.creditCard, info.job, info.country);
+                    response = extraFilter(response.objects, info);
                     response.objects = info.limit == "No Limit" ? response.objects : response.objects.slice(0, info.limit);
                     resolve(response)
                 }else{
@@ -533,7 +552,7 @@ function getLocalForageLocalStorage(info, method = "nomal") {
                 }
                 localForageLocalStorage.getItems(keys).then(function(response) {
                     response = Object.values(response)
-                    response = extraFilter(response, info.gender, info.creditCard, info.job, info.country);
+                    response = extraFilter(response, info);
                     response.objects = info.limit == "No Limit" ? response.objects : response.objects.slice(0, info.limit);
                     resolve(response)
                 }).catch(function(error) {
@@ -548,7 +567,7 @@ function getLocalForageLocalStorage(info, method = "nomal") {
                 if(data === undefined || data.length == 0) {
                     reject("No Data is found!")
                 }else{
-                    data = extraFilter(data, info.gender, info.creditCard, info.job, info.country);
+                    data = extraFilter(data, info);
                     data.objects = info.limit == "No Limit" ? data.objects : data.objects.slice(0, info.limit);
                     resolve(data);
                 }
@@ -622,7 +641,7 @@ function getLocalForageIDB(info, method = "nomal") {
         if(method == "bulk") {
             localForage.getItem("localForage_speedtest").then(function(response) {
                 if(response) {
-                    response = extraFilter(response.objects, info.gender, info.creditCard, info.job, info.country);
+                    response = extraFilter(response.objects, info);
                     response.objects = info.limit == "No Limit" ? response.objects : response.objects.slice(0, info.limit);
                     resolve(response)
                 }else{
@@ -640,7 +659,7 @@ function getLocalForageIDB(info, method = "nomal") {
                 }
                 localForage.getItems(keys).then(function(response) {
                     response = Object.values(response)
-                    response = extraFilter(response, info.gender, info.creditCard, info.job, info.country);
+                    response = extraFilter(response, info);
                     response.objects = info.limit == "No Limit" ? response.objects : response.objects.slice(0, info.limit);
                     resolve(response)
                 }).catch(function(error) {
@@ -655,7 +674,7 @@ function getLocalForageIDB(info, method = "nomal") {
                 if(data === undefined || data.length == 0) {
                     reject("No Data is found!")
                 }else{
-                    data = extraFilter(data, info.gender, info.creditCard, info.job, info.country);
+                    data = extraFilter(data, info);
                     data.objects = info.limit == "No Limit" ? data.objects : data.objects.slice(0, info.limit);
                     resolve(data);
                 }
@@ -694,6 +713,19 @@ function clearLocalForageIDB(method = "nomal") {
     })
 }
 
+function createIndexPouchDB() {
+    var index = ["Gender", "CreditCard", "JobTitle", "Country"]
+    index.forEach(function(e) {
+        pouch.createIndex({
+            index: {
+                fields: [e],
+                name: e,
+                ddoc: e
+            }
+        })
+    })
+}
+
 function setPouch(docs, method = "nomal") {
     return new Promise(function(resolve, reject) {
         docs.objects.forEach(function(e) {
@@ -717,17 +749,29 @@ function setPouch(docs, method = "nomal") {
     })
 }
 
-function getPouch(limit, method = "nomal", numDocs) {
+function getPouch(info, method = "nomal") {
     return new Promise(function(resolve, reject) {
-        if(method == "bulk") {
-            var options = {include_docs: true}
-            limit == "No Limit" ? false : options.limit = parseInt(limit);
+        var filters = setFilters(info.gender, info.creditCard, info.job, info.country);
+
+        if(Object.keys(filters).length !== 0) {
+            var options = {selector: filters}
+            info.limit == "No Limit" ? false : options.limit = parseInt(info.limit);
+            pouch.find(options).then(function (response) {
+                console.log(response)
+                resolve({command: "filter", objects:response.docs})
+            }).catch(function (err) {
+                console.log(err);
+            });
+        }else if(method == "bulk") {
+            var options = {include_docs: true, startkey: 'design_\uffff'}
+            info.limit == "No Limit" ? false : options.limit = parseInt(info.limit);
             pouch.allDocs(options).then(function(response) {
-                if(response.total_rows != 0) {
+                if(response.total_rows != 0 && response.rows.length != 0) {
+                    console.log(response)
                     var data = response.rows.map(function(e) {
                         return e.doc;
                     })
-                    resolve({objects:data})
+                    resolve({command: "get", objects:data})
                 }else{
                     reject("No Data is found!")
                 }
@@ -735,7 +779,7 @@ function getPouch(limit, method = "nomal", numDocs) {
                 reject(error)
             });
         }else{
-            limit = limit == "No Limit" ? numDocs : limit;
+            var limit = info.limit == "No Limit" ? info.numDocs : info.limit;
 
             Promise.resolve().then(async function() {
                 var data = []
@@ -744,7 +788,7 @@ function getPouch(limit, method = "nomal", numDocs) {
                     data.push(doc)
                 }
                 console.log(data)
-                resolve({objects:data})
+                resolve({command: "get", objects:data})
             }).catch(function(error) {
                 error.name == "not_found" ?  reject("No Data is found!") : reject(error)
             })
@@ -757,6 +801,7 @@ function clearPouch(method = "nomal", numDocs) {
         if(method == "bulk") {
             pouch.destroy().then(function () {
                 pouch = new PouchDB('pouch_speedtest');
+                createIndexPouchDB();
                 resolve()
             }).catch(function (error) {
                 reject(error)
@@ -777,9 +822,6 @@ function clearPouch(method = "nomal", numDocs) {
 
 function setDexie(docs, method = "nomal") {
     return new Promise(function(resolve, reject) {
-        docs.objects.forEach(function(e) {
-            e._id = "pouch_speedtest_docs_" + e.ID
-        })
         if(method == "bulk") {
             dexie.docs.bulkPut(docs.objects).then(function() {
                 resolve()
@@ -792,7 +834,7 @@ function setDexie(docs, method = "nomal") {
                     if(docs.objects.length - 1 == index) { resolve() }
                 }).catch(function(error) {
                     reject(error)
-                });;
+                });
             })
         }
     })
@@ -800,12 +842,7 @@ function setDexie(docs, method = "nomal") {
 
 function getDexie(info, method = "nomal") {
     return new Promise(function(resolve, reject) {
-        var filters = {}
-        info.gender ? filters["Gender"] = info.gender : false;
-        info.creditCard ? filters["CreditCard"] = info.creditCard : false;
-        info.job ? filters["JobTitle"] = info.job : false;
-        info.country ? filters["Country"] = info.country : false;
-
+        var filters = setFilters(info.gender, info.creditCard, info.job, info.country);
         var query = dexie.docs;
         query = Object.keys(filters).length !== 0 ? query.where(filters) : query;
 
@@ -871,12 +908,7 @@ function setTaffy(docs) {
 }
 
 function getTaffy(info) {
-    var query = {}
-    info.gender ? query["Gender"] = info.gender : false;
-    info.creditCard ? query["CreditCard"] = info.creditCard : false;
-    info.job ? query["JobTitle"] = info.job : false;
-    info.country ? query["Country"] = info.country : false;
-
+    var query = setFilters(info.gender, info.creditCard, info.job, info.country);
     limit = info.limit == "No Limit" ? 0 : info.limit;
 
     if(Object.keys(query).length === 0 && query.constructor === Object) {
