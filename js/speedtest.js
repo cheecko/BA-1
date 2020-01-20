@@ -37,15 +37,31 @@ const cacheAvailable = 'caches' in self;
 var json = [];
 loadAllJSON()
 
+var testManualResult = testResultDefault("manual")
+
+var testAutoResult = testResultDefault("auto")
+
+var testChart;
+
 $(document).ready(function() {
-    $(document).on("click", "#set, #get, #remove", function() {
+    $(document).on("click", "#set, #get, #remove", async function() {
         var command = $(this).prop("id");
         var info = getInfo();
         info.command = command;
 
         disabledButtonTrue()
         template("display", info, "display");
-        doSomething(info);
+        var duration = await doSomething(info);
+        console.log(duration)
+        testManualResult["data"][command].push(duration)
+
+        var sum = 0;
+        testManualResult["data"][command].forEach(function(e) {
+            sum += e;
+        })
+        testManualResult["average_"+ command] = sum / testManualResult["data"][command].length;
+
+        console.log(testManualResult)
     })
 
     $(document).on("change", "#limit, #selectGender, #selectCreditCard, #selectJobTitle, #selectCountry", function() {
@@ -57,7 +73,96 @@ $(document).ready(function() {
         template("display", info, "display");
         doSomething(info);
     })
+
+    $(document).on("click", ".test-button", async function() {
+        var commands = $(this).data("id").split("_");
+        var loop = $("#test-loop").val();
+        var info = getInfo();
+        testAutoResult = testResultDefault("auto")
+
+        for (let i = 0; i < loop; i++) {
+            await new Promise(async function(resolve) {
+                for(var command of commands) {
+                    console.log(command)
+                    info.command = command;
+        
+                    disabledButtonTrue()
+                    var duration = await doSomething(info)
+                    console.log(duration)
+                    testAutoResult["data"][command].push(duration)
+                    // await timeout(500)
+                }
+                resolve()
+            })
+        }
+
+        commands.forEach(function(command) {
+            var sum = 0;
+            testAutoResult["data"][command].forEach(function(e) {
+                sum += e;
+            })
+            testAutoResult["average_"+ command] = sum / testAutoResult["data"][command].length;
+        })
+        
+        console.log(testAutoResult)
+    })
+
+    $(document).on("click", ".test-result", async function() {
+        var mode = $(this).prop("id");
+        var data = mode == "manual" ? testManualResult : testAutoResult
+        console.log(data)
+        template("testDisplay", data, "testDisplay");
+
+        testChart ? testChart.destroy() : false;
+
+        var ctx = document.getElementById('myChart').getContext('2d');
+        testChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: [...data.data["set"].keys()],
+                datasets: [{
+                    label: 'set',
+                    data: data.data["set"],
+                    borderColor: "#007bff",
+                    pointBorderColor: "#17a2b8"
+                },
+                {
+                    label: 'get',
+                    data: data.data["get"],
+                    borderColor: "#dc3545",
+                },
+                {
+                    label: 'remove',
+                    data: data.data["remove"],
+                    borderColor: "#ffc107",
+                }],
+            },
+            options: {
+                maintainAspectRatio: false,
+                title: {
+                    display: true,
+                    text: 'Test Chart in ms'
+                },
+                scales: {
+                    xAxes: [{
+                        ticks: {
+                            autoSkip: true,
+                            maxTicksLimit: 21
+                        }
+                    }]
+                }
+            }
+        });
+    })
 })
+
+function timeout(delay) {
+    return new Promise(resolve  => {
+        setTimeout(function(){ 
+            resolve()
+         }, delay);
+    });
+}
 
 function disabledButtonTrue() {
     $("#set, #get, #remove").prop("disabled", true)
@@ -65,6 +170,17 @@ function disabledButtonTrue() {
 
 function disabledButtonFalse() {
     $("#set, #get, #remove").prop("disabled", false)
+}
+
+function testResultDefault(mode) {
+    return {
+        mode: mode,
+        data: {
+            "set": [],
+            "get": [],
+            "remove": []
+        }
+    }
 }
 
 function getInfo() {
@@ -249,6 +365,7 @@ async function doSomething(info) {
     }else{
         $("#previewContainer").html("");
     }
+    return info.timeSpent;
 }
 
 function template(templateName, data, container = "previewContainer") {
@@ -449,15 +566,13 @@ function setCache(info) {
         if(!cacheAvailable) { reject("Cache API is not available!") }
 
         caches.open('mycache').then(function(cache) {
-            cache.put('/cache_speedtest/docs/'+info.jsonType+'/'+info.numDocs+'.json', new Response(JSON.stringify(info.docs))).then(function() {
-                resolve();
-            }).catch(function(error) {
+            cache.put('/cache_speedtest/docs/', new Response(JSON.stringify(info.docs))).catch(function(error) {
                 reject(error);
             });
         })
 
         caches.open('mycache').then(function(cache) {
-            cache.put('/cache_speedtest/docs/', new Response(JSON.stringify(info.docs))).then(function() {
+            cache.put('/cache_speedtest/docs/'+info.jsonType+'/'+info.numDocs+'.json', new Response(JSON.stringify(info.docs))).then(function() {
                 resolve();
             }).catch(function(error) {
                 reject(error);
@@ -799,9 +914,10 @@ function getPouch(info, method = "nomal") {
 function clearPouch(method = "nomal", numDocs) {
     return new Promise(function(resolve, reject) {
         if(method == "bulk") {
-            pouch.destroy().then(function () {
+            pouch.destroy().then(async function () {
                 pouch = new PouchDB('pouch_speedtest');
                 createIndexPouchDB();
+                await timeout(1000)
                 resolve()
             }).catch(function (error) {
                 reject(error)

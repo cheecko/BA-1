@@ -6,6 +6,15 @@
     </div>
 </script>
 
+<script id="testDisplay-template" type="text/x-template">
+    <span class="text-capitalize">{{:mode}} Test</span>
+    <div class="row flex-column flex-wrap">
+        <span class="col">Average Set Duration: {{if average_set}}{{:average_set}}{{else}}0{{/if}} ms</span>
+        <span class="col">Average Get Duration: {{if average_get}}{{:average_get}}{{else}}0{{/if}} ms</span>
+        <span class="col">Average Remove Duration: {{if average_remove}}{{:average_remove}}{{else}}0{{/if}} ms</span>
+    </div>
+</script>
+
 <script id="select-template" type="text/x-template">
     <option value="">{{:search}}</option>
     {{for data}}

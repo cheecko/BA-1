@@ -37,7 +37,7 @@
         </form> -->
         <section id="database" class="my-3">
             <div class="row my-3">
-                <div class="col-4">
+                <div class="col-3">
                     <h3>Number of docs</h3>
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="numDocs" id="docs_1000" value="1000" checked>
@@ -53,7 +53,7 @@
                         <label class="form-check-label" for="docs_100000"></span>100000</label>
                     </div>
                 </div>
-                <div class="col-4">
+                <div class="col-3">
                     <h3>Type of JSON</h3>
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="jsonType" id="docs_big_json" value="big" checked>
@@ -62,6 +62,31 @@
                     <div class="form-check">
                         <input class="form-check-input" type="radio" name="jsonType" id="docs_small_json" value="small">
                         <label class="form-check-label" for="docs_small_json"></span>Small</label>
+                    </div>
+                </div>
+                <div class="col-2">
+                    <h3>Auto Test</h3>
+                    <div class="row">
+                        <div class="col pr-0">
+                            <select class="custom-select btn" id="test-loop">
+                                <option value="5">5</option>
+                                <option value="10">10</option>
+                                <option value="100">100</option>
+                                <option value="1000">1000</option>
+                            </select>
+                        </div>
+                        <div class="btn-group col-auto pl-0">
+                            <button type="button" class="btn btn-primary test-button" data-id="set_get_remove">Test</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col">
+                    <h3>Test Result</h3>
+                    <div class="row">
+                        <div class="btn-group col-auto">
+                            <button type="button" class="btn btn-primary test-result" id="manual">Manual</button>
+                            <button type="button" class="btn btn-danger test-result" id="auto">Auto</button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -163,6 +188,10 @@
         </section>
 
         <div class="my-2" id="display"></div>
+        <div class="my-2" id="testDisplay"></div>
+        <div class="chart-container my-3" style="position: relative;">
+            <canvas id="myChart" style="width: 300px; height:300px"></canvas>
+        </div>
         <div class="my-3" id="previewContainer"></div>
     </div>    
 </body>
