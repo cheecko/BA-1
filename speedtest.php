@@ -64,11 +64,11 @@
                         <label class="form-check-label" for="docs_small_json"></span>Small</label>
                     </div>
                 </div>
-                <div class="col-2">
+                <div class="col-3">
                     <h3>Auto Test</h3>
                     <div class="row">
-                        <div class="col pr-0">
-                            <select class="custom-select btn" id="test-loop">
+                        <div class="col-auto pr-0">
+                            <select class="custom-select btn" id="test-loop" style="max-width:100px">
                                 <option value="5">5</option>
                                 <option value="10">10</option>
                                 <option value="100">100</option>
@@ -77,6 +77,7 @@
                         </div>
                         <div class="btn-group col-auto pl-0">
                             <button type="button" class="btn btn-primary test-button" data-id="set_get_remove">Test</button>
+                            <button type="button" class="btn btn-danger test-button" data-id="get">Get</button>
                         </div>
                     </div>
                 </div>

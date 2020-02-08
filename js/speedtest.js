@@ -119,7 +119,7 @@ $(document).ready(function() {
         testChart = new Chart(ctx, {
             type: 'line',
             data: {
-                labels: [...data.data["set"].keys()],
+                labels: [...data.data["get"].keys()],
                 datasets: [{
                     label: 'set',
                     data: data.data["set"],
@@ -917,7 +917,7 @@ function clearPouch(method = "nomal", numDocs) {
             pouch.destroy().then(async function () {
                 pouch = new PouchDB('pouch_speedtest');
                 createIndexPouchDB();
-                await timeout(1000)
+                await timeout(2000)
                 resolve()
             }).catch(function (error) {
                 reject(error)
